@@ -38,3 +38,43 @@ C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Web\obj\Debug\net5.0\
 C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Web\obj\Debug\net5.0\ref\AWork.Web.dll
 C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Web\obj\Debug\net5.0\AWork.Web.csproj.CopyComplete
 C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Web\obj\Debug\net5.0\Razor\Views\Shared\_AWorkLayout.cshtml.g.cs
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\bin\Debug\net5.0\AWork.Web.exe
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\bin\Debug\net5.0\AWork.Web.deps.json
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\bin\Debug\net5.0\AWork.Web.runtimeconfig.json
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\bin\Debug\net5.0\AWork.Web.runtimeconfig.dev.json
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\bin\Debug\net5.0\AWork.Web.dll
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\bin\Debug\net5.0\AWork.Web.pdb
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\bin\Debug\net5.0\AWork.Web.Views.dll
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\bin\Debug\net5.0\AWork.Web.Views.pdb
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWork.Web.csproj.AssemblyReference.cache
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWork.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWork.Web.AssemblyInfoInputs.cache
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWork.Web.AssemblyInfo.cs
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWork.Web.csproj.CoreCompileInputs.cache
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWork.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWork.Web.RazorAssemblyInfo.cache
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWork.Web.RazorAssemblyInfo.cs
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\scopedcss\bundle\AWork.Web.styles.css
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\staticwebassets\AWork.Web.StaticWebAssets.Manifest.cache
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWork.Web.TagHelpers.input.cache
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWork.Web.TagHelpers.output.cache
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWork.Web.RazorCoreGenerate.cache
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\Shared\_AWorkLayout.cshtml.g.cs
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWork.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWork.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWork.Web.Views.pdb
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWork.Web.dll
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\refint\AWork.Web.dll
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWork.Web.pdb
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWork.Web.genruntimeconfig.cache
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\ref\AWork.Web.dll
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWork.Web.csproj.CopyComplete

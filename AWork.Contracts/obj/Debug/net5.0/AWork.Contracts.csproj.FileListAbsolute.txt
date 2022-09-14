@@ -1,0 +1,12 @@
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Contracts\bin\Debug\net5.0\AWork.Contracts.deps.json
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Contracts\bin\Debug\net5.0\AWork.Contracts.dll
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Contracts\bin\Debug\net5.0\AWork.Contracts.pdb
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.csproj.AssemblyReference.cache
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.AssemblyInfoInputs.cache
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.AssemblyInfo.cs
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.dll
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\refint\AWork.Contracts.dll
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.pdb
+C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\ref\AWork.Contracts.dll
