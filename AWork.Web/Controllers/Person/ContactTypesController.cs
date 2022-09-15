@@ -13,7 +13,7 @@ namespace AWork.Web.Controllers.Person
     public class ContactTypesController : Controller
     {
         private readonly AdventureWorks2019Context _context;
-
+         
         public ContactTypesController(AdventureWorks2019Context context)
         {
             _context = context;
