@@ -7,11 +7,25 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\HumanResource\" />
-    <Folder Include="Controllers\Sales\" />
-    <Folder Include="Controllers\Production\" />
-    <Folder Include="Controllers\Purchasing\" />
-    <Folder Include="Controllers\Person\" />
+    <Compile Remove="Controllers\HumanResource\**" />
+    <Compile Remove="Controllers\Production\**" />
+    <Compile Remove="Controllers\Purchasing\**" />
+    <Compile Remove="Controllers\Sales\**" />
+    <Content Remove="Controllers\HumanResource\**" />
+    <Content Remove="Controllers\Production\**" />
+    <Content Remove="Controllers\Purchasing\**" />
+    <Content Remove="Controllers\Sales\**" />
+    <EmbeddedResource Remove="Controllers\HumanResource\**" />
+    <EmbeddedResource Remove="Controllers\Production\**" />
+    <EmbeddedResource Remove="Controllers\Purchasing\**" />
+    <EmbeddedResource Remove="Controllers\Sales\**" />
+    <None Remove="Controllers\HumanResource\**" />
+    <None Remove="Controllers\Production\**" />
+    <None Remove="Controllers\Purchasing\**" />
+    <None Remove="Controllers\Sales\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Repository\" />
     <Folder Include="Resources\Images\" />
   </ItemGroup>
