@@ -1,11 +1,17 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>AWork.Domain</RootNamespace>
+    <AssemblyName>AWork.Domain</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
     <Folder Include="Entities\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AWork.Contracts\AWork.Contracts.csproj" />
   </ItemGroup>
 
 </Project>
