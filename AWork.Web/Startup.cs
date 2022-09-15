@@ -26,7 +26,6 @@ namespace AWork.Web
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-           /* koneksi database*/
             services.AddDbContext<AdventureWorks2019Context>(opts =>
             {
                 opts.UseSqlServer(Configuration["ConnectionStrings:AdventureWorks2019Db"]);
