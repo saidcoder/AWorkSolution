@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B0yh1jwSg66aAA5sQ9+jmdXUhPr/SDB/8Q23HmedxICTeosmGYuFCj1MsHypMu0T488vuyVXZSjeDUGwvHCwkQ==",
+  "dgSpecHash": "nMU2zGGjjxCpQC8smrIFJvGhUkGqcSXpHDIcoGGrq6P1AGuzlbwirWAiGyIsU1nhN5XBAlqXN16AxIcYVcGd9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Persistence\\AWork.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Code.id\\Documents\\Harfianto\\harfianto\\AWork.Persistence\\AWork.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Code.id\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Code.id\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -102,12 +102,5 @@
     "C:\\Users\\Code.id\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Code.id\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Persistence\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

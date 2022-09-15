@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Domain\\AWork.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Code.id\\Documents\\Harfianto\\harfianto\\AWork.Domain\\AWork.Domain.csproj",
       "projectName": "AWork.Domain",
-      "projectPath": "C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Domain\\AWork.Domain.csproj",
+      "projectPath": "C:\\Users\\Code.id\\Documents\\Harfianto\\harfianto\\AWork.Domain\\AWork.Domain.csproj",
       "packagesPath": "C:\\Users\\Code.id\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Code.id\\Documents\\Harfianto\\harfianto\\AWork.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Code.id\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Contracts\\AWork.Contracts.csproj": {
-              "projectPath": "C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Contracts\\AWork.Contracts.csproj"
+            "C:\\Users\\Code.id\\Documents\\Harfianto\\harfianto\\AWork.Contracts\\AWork.Contracts.csproj": {
+              "projectPath": "C:\\Users\\Code.id\\Documents\\Harfianto\\harfianto\\AWork.Contracts\\AWork.Contracts.csproj"
             }
           }
         }
@@ -87,13 +87,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Domain\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

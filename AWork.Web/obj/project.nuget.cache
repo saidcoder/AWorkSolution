@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+gTpYUU4IEhCUYBZOKdDtytM05ozNgCQ2BgWXloZCk2gJW274bOK/xeRyF3aX19M66La8fj21KU+z7KWJ6PfVA==",
+  "dgSpecHash": "NQiibFzH288dBXu0eyygA3NN0Zl/1Uav2OjnWmqPCoajpT5RHMreMppgMTam8PPzav/LUOTM4Ej1xgJ4VXB50w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Web\\AWork.Web.csproj",
+  "projectFilePath": "C:\\Users\\Code.id\\Documents\\Harfianto\\harfianto\\AWork.Web\\AWork.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Code.id\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Code.id\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
@@ -129,12 +129,5 @@
     "C:\\Users\\Code.id\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Code.id\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Web\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
