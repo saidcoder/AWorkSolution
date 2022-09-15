@@ -312,3 +312,13 @@ D:\final\AWork.Web\obj\Debug\net5.0\Razor\Views\ShipMethods\Delete.cshtml.g.cs
 D:\final\AWork.Web\obj\Debug\net5.0\Razor\Views\ShipMethods\Details.cshtml.g.cs
 D:\final\AWork.Web\obj\Debug\net5.0\Razor\Views\ShipMethods\Edit.cshtml.g.cs
 D:\final\AWork.Web\obj\Debug\net5.0\Razor\Views\ShipMethods\Index.cshtml.g.cs
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Web\obj\Debug\net5.0\Razor\Views\ShipMethods\Create.cshtml.g.cs
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Web\obj\Debug\net5.0\Razor\Views\ShipMethods\Delete.cshtml.g.cs
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Web\obj\Debug\net5.0\Razor\Views\ShipMethods\Details.cshtml.g.cs
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Web\obj\Debug\net5.0\Razor\Views\ShipMethods\Edit.cshtml.g.cs
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Web\obj\Debug\net5.0\Razor\Views\ShipMethods\Index.cshtml.g.cs
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Web\obj\Debug\net5.0\Razor\Views\Vendors\Create.cshtml.g.cs
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Web\obj\Debug\net5.0\Razor\Views\Vendors\Delete.cshtml.g.cs
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Web\obj\Debug\net5.0\Razor\Views\Vendors\Details.cshtml.g.cs
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Web\obj\Debug\net5.0\Razor\Views\Vendors\Edit.cshtml.g.cs
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Web\obj\Debug\net5.0\Razor\Views\Vendors\Index.cshtml.g.cs
