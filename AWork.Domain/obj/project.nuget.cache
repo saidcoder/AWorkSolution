@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "5b6hnoY32HkMVUOXVIUY84tF/jVtV29BzkL4U6Js5JwlZbGkDLfAoKk1Vku1JxFjrwL9dystUukxWYGXPXwdFg==",
+  "dgSpecHash": "kIllCvwZh2jCWcTCwvc/puF9fgJ4YdykPlDrgWIvzcrRrxrrfdVy/K/bnd/KZc1oKafy5ST1Sjo4O7ocBtpdGg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Domain\\AWork.Domain.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Domain\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

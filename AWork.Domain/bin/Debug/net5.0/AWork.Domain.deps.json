@@ -7,9 +7,23 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "AWork.Domain/1.0.0": {
+<<<<<<< HEAD
         "runtime": {
           "AWork.Domain.dll": {}
         }
+=======
+        "dependencies": {
+          "AWork.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "AWork.Domain.dll": {}
+        }
+      },
+      "AWork.Contracts/1.0.0": {
+        "runtime": {
+          "AWork.Contracts.dll": {}
+        }
+>>>>>>> 19c29899a7dd6d902468230597a17adea23aae0c
       }
     }
   },
@@ -18,6 +32,14 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+<<<<<<< HEAD
+=======
+    },
+    "AWork.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+>>>>>>> 19c29899a7dd6d902468230597a17adea23aae0c
     }
   }
 }

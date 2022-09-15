@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "AWork.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/AWork.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AWork.Contracts.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AWork.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../AWork.Contracts/AWork.Contracts.csproj",
+      "msbuildProject": "../AWork.Contracts/AWork.Contracts.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "AWork.Contracts >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Code.id\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Contracts\\AWork.Contracts.csproj": {
+              "projectPath": "C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Contracts\\AWork.Contracts.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -64,5 +87,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Domain\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

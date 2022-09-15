@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Domain\bin\Debug\net5.0\AWork.Domain.deps.json
 C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Domain\bin\Debug\net5.0\AWork.Domain.dll
 C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Domain\bin\Debug\net5.0\AWork.Domain.pdb
@@ -22,3 +23,20 @@ C:\Users\Code.id\Documents\Harfianto\Harfianto\AWork.Domain\obj\Debug\net5.0\AWo
 C:\Users\Code.id\Documents\Harfianto\Harfianto\AWork.Domain\obj\Debug\net5.0\refint\AWork.Domain.dll
 C:\Users\Code.id\Documents\Harfianto\Harfianto\AWork.Domain\obj\Debug\net5.0\AWork.Domain.pdb
 C:\Users\Code.id\Documents\Harfianto\Harfianto\AWork.Domain\obj\Debug\net5.0\ref\AWork.Domain.dll
+=======
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\bin\Debug\net5.0\AWork.Domain.deps.json
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\bin\Debug\net5.0\AWork.Domain.dll
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\bin\Debug\net5.0\AWork.Domain.pdb
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\bin\Debug\net5.0\AWork.Contracts.dll
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\bin\Debug\net5.0\AWork.Contracts.pdb
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\obj\Debug\net5.0\AWork.Domain.csproj.AssemblyReference.cache
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\obj\Debug\net5.0\AWork.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\obj\Debug\net5.0\AWork.Domain.AssemblyInfoInputs.cache
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\obj\Debug\net5.0\AWork.Domain.AssemblyInfo.cs
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\obj\Debug\net5.0\AWork.Domain.csproj.CoreCompileInputs.cache
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\obj\Debug\net5.0\AWork.Domain.csproj.CopyComplete
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\obj\Debug\net5.0\AWork.Domain.dll
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\obj\Debug\net5.0\refint\AWork.Domain.dll
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\obj\Debug\net5.0\AWork.Domain.pdb
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\obj\Debug\net5.0\ref\AWork.Domain.dll
+>>>>>>> 19c29899a7dd6d902468230597a17adea23aae0c

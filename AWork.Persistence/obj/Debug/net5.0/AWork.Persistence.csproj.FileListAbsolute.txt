@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.deps.json
 C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.dll
 C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.pdb
@@ -22,3 +23,25 @@ C:\Users\Code.id\Documents\Harfianto\Harfianto\AWork.Persistence\obj\Debug\net5.
 C:\Users\Code.id\Documents\Harfianto\Harfianto\AWork.Persistence\obj\Debug\net5.0\refint\AWork.Persistence.dll
 C:\Users\Code.id\Documents\Harfianto\Harfianto\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.pdb
 C:\Users\Code.id\Documents\Harfianto\Harfianto\AWork.Persistence\obj\Debug\net5.0\ref\AWork.Persistence.dll
+=======
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.deps.json
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.runtimeconfig.json
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.runtimeconfig.dev.json
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.dll
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.pdb
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\bin\Debug\net5.0\AWork.Contracts.dll
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\bin\Debug\net5.0\AWork.Domain.dll
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\bin\Debug\net5.0\AWork.Contracts.pdb
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\bin\Debug\net5.0\AWork.Domain.pdb
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.csproj.AssemblyReference.cache
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.AssemblyInfoInputs.cache
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.AssemblyInfo.cs
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.csproj.CoreCompileInputs.cache
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.csproj.CopyComplete
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.dll
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\obj\Debug\net5.0\refint\AWork.Persistence.dll
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.pdb
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.genruntimeconfig.cache
+C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\obj\Debug\net5.0\ref\AWork.Persistence.dll
+>>>>>>> 19c29899a7dd6d902468230597a17adea23aae0c
