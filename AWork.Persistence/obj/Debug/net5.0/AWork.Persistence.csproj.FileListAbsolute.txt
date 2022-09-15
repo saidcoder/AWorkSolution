@@ -18,3 +18,23 @@ C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\obj\Debug
 C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.pdb
 C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.genruntimeconfig.cache
 C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\obj\Debug\net5.0\ref\AWork.Persistence.dll
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.deps.json
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.runtimeconfig.json
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.runtimeconfig.dev.json
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.dll
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.pdb
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Persistence\bin\Debug\net5.0\AWork.Contracts.dll
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Persistence\bin\Debug\net5.0\AWork.Domain.dll
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Persistence\bin\Debug\net5.0\AWork.Contracts.pdb
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Persistence\bin\Debug\net5.0\AWork.Domain.pdb
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.csproj.AssemblyReference.cache
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.AssemblyInfoInputs.cache
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.AssemblyInfo.cs
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.csproj.CopyComplete
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.dll
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Persistence\obj\Debug\net5.0\refint\AWork.Persistence.dll
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.pdb
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.genruntimeconfig.cache
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Persistence\obj\Debug\net5.0\ref\AWork.Persistence.dll

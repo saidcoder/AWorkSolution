@@ -13,3 +13,18 @@ C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\obj\Debug\net5
 C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\obj\Debug\net5.0\refint\AWork.Domain.dll
 C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\obj\Debug\net5.0\AWork.Domain.pdb
 C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\obj\Debug\net5.0\ref\AWork.Domain.dll
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Domain\bin\Debug\net5.0\AWork.Domain.deps.json
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Domain\bin\Debug\net5.0\AWork.Domain.dll
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Domain\bin\Debug\net5.0\AWork.Domain.pdb
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Domain\bin\Debug\net5.0\AWork.Contracts.dll
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Domain\bin\Debug\net5.0\AWork.Contracts.pdb
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Domain\obj\Debug\net5.0\AWork.Domain.csproj.AssemblyReference.cache
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Domain\obj\Debug\net5.0\AWork.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Domain\obj\Debug\net5.0\AWork.Domain.AssemblyInfoInputs.cache
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Domain\obj\Debug\net5.0\AWork.Domain.AssemblyInfo.cs
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Domain\obj\Debug\net5.0\AWork.Domain.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Domain\obj\Debug\net5.0\AWork.Domain.csproj.CopyComplete
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Domain\obj\Debug\net5.0\AWork.Domain.dll
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Domain\obj\Debug\net5.0\refint\AWork.Domain.dll
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Domain\obj\Debug\net5.0\AWork.Domain.pdb
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Domain\obj\Debug\net5.0\ref\AWork.Domain.dll
