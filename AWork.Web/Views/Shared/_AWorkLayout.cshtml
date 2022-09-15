@@ -154,22 +154,17 @@
                     <li class="menu-item">
                         <a href="javascript:void(0);" class="menu-link menu-toggle">
                             <i class="menu-icon tf-icons bx bx-lock-open-alt"></i>
-                            <div data-i18n="Authentications">Sales</div>
+                            <div data-i18n="Authentications">Purchasing</div>
                         </a>
                         <ul class="menu-sub">
-                            <li class="menu-item">
-                                <a class="menu-link" asp-area="" asp-controller="Products" asp-action="Index">
-                                    <div data-i18n="Basic">Product</div>
+                            <li class="menu-item active">
+                                <a class="menu-link" asp-area="" asp-controller="Vendors" asp-action="Index">
+                                    <div data-i18n="Basic">Vendors</div>
                                 </a>
                             </li>
-                            <li class="menu-item">
-                                <a href="auth-register-basic.html" class="menu-link" target="_blank">
-                                    <div data-i18n="Basic">Orders</div>
-                                </a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="auth-forgot-password-basic.html" class="menu-link" target="_blank">
-                                    <div data-i18n="Basic">Shipper</div>
+                            <li class="menu-item active">
+                                <a class="menu-link" asp-area="" asp-controller="ShipMethods" asp-action="Index">
+                                    <div data-i18n="Basic">Ship Methods</div>
                                 </a>
                             </li>
                         </ul>
