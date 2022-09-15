@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Domain\\AWork.Domain.csproj": {}
+    "C:\\Users\\Code.id\\Documents\\Harfianto\\project\\AWork.Domain\\AWork.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\AWork.Contracts.csproj": {
+    "C:\\Users\\Code.id\\Documents\\Harfianto\\project\\AWork.Contracts\\AWork.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\AWork.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Code.id\\Documents\\Harfianto\\project\\AWork.Contracts\\AWork.Contracts.csproj",
         "projectName": "AWork.Contracts",
-        "projectPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\AWork.Contracts.csproj",
-        "packagesPath": "C:\\Users\\CODE.ID\\.nuget\\packages\\",
-        "outputPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\obj\\",
+        "projectPath": "C:\\Users\\Code.id\\Documents\\Harfianto\\project\\AWork.Contracts\\AWork.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Code.id\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Code.id\\Documents\\Harfianto\\project\\AWork.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CODE.ID\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Code.id\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,17 +59,17 @@
         }
       }
     },
-    "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Domain\\AWork.Domain.csproj": {
+    "C:\\Users\\Code.id\\Documents\\Harfianto\\project\\AWork.Domain\\AWork.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Domain\\AWork.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Code.id\\Documents\\Harfianto\\project\\AWork.Domain\\AWork.Domain.csproj",
         "projectName": "AWork.Domain",
-        "projectPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Domain\\AWork.Domain.csproj",
-        "packagesPath": "C:\\Users\\CODE.ID\\.nuget\\packages\\",
-        "outputPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Code.id\\Documents\\Harfianto\\project\\AWork.Domain\\AWork.Domain.csproj",
+        "packagesPath": "C:\\Users\\Code.id\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Code.id\\Documents\\Harfianto\\project\\AWork.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CODE.ID\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Code.id\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,8 +83,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\AWork.Contracts.csproj": {
-                "projectPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\AWork.Contracts.csproj"
+              "C:\\Users\\Code.id\\Documents\\Harfianto\\project\\AWork.Contracts\\AWork.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Code.id\\Documents\\Harfianto\\project\\AWork.Contracts\\AWork.Contracts.csproj"
               }
             }
           }
