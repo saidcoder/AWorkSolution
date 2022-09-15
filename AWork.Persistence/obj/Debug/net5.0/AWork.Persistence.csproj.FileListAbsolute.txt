@@ -18,23 +18,23 @@ C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\obj\Debug
 C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.pdb
 C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.genruntimeconfig.cache
 C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\obj\Debug\net5.0\ref\AWork.Persistence.dll
-D:\final\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.deps.json
-D:\final\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.runtimeconfig.json
-D:\final\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.runtimeconfig.dev.json
-D:\final\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.dll
-D:\final\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.pdb
-D:\final\AWork.Persistence\bin\Debug\net5.0\AWork.Contracts.dll
-D:\final\AWork.Persistence\bin\Debug\net5.0\AWork.Domain.dll
-D:\final\AWork.Persistence\bin\Debug\net5.0\AWork.Contracts.pdb
-D:\final\AWork.Persistence\bin\Debug\net5.0\AWork.Domain.pdb
-D:\final\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.csproj.AssemblyReference.cache
-D:\final\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.GeneratedMSBuildEditorConfig.editorconfig
-D:\final\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.AssemblyInfoInputs.cache
-D:\final\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.AssemblyInfo.cs
-D:\final\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.csproj.CoreCompileInputs.cache
-D:\final\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.csproj.CopyComplete
-D:\final\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.dll
-D:\final\AWork.Persistence\obj\Debug\net5.0\refint\AWork.Persistence.dll
-D:\final\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.pdb
-D:\final\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.genruntimeconfig.cache
-D:\final\AWork.Persistence\obj\Debug\net5.0\ref\AWork.Persistence.dll
+D:\CSharp\finalproject\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.deps.json
+D:\CSharp\finalproject\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.runtimeconfig.json
+D:\CSharp\finalproject\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.runtimeconfig.dev.json
+D:\CSharp\finalproject\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.dll
+D:\CSharp\finalproject\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.pdb
+D:\CSharp\finalproject\AWork.Persistence\bin\Debug\net5.0\AWork.Contracts.dll
+D:\CSharp\finalproject\AWork.Persistence\bin\Debug\net5.0\AWork.Domain.dll
+D:\CSharp\finalproject\AWork.Persistence\bin\Debug\net5.0\AWork.Contracts.pdb
+D:\CSharp\finalproject\AWork.Persistence\bin\Debug\net5.0\AWork.Domain.pdb
+D:\CSharp\finalproject\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.csproj.AssemblyReference.cache
+D:\CSharp\finalproject\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\finalproject\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.AssemblyInfoInputs.cache
+D:\CSharp\finalproject\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.AssemblyInfo.cs
+D:\CSharp\finalproject\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.csproj.CoreCompileInputs.cache
+D:\CSharp\finalproject\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.csproj.CopyComplete
+D:\CSharp\finalproject\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.dll
+D:\CSharp\finalproject\AWork.Persistence\obj\Debug\net5.0\refint\AWork.Persistence.dll
+D:\CSharp\finalproject\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.pdb
+D:\CSharp\finalproject\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.genruntimeconfig.cache
+D:\CSharp\finalproject\AWork.Persistence\obj\Debug\net5.0\ref\AWork.Persistence.dll
