@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "w8zbLc+BuPqGV9ZzINsrAJw9vmLKDqynYac6tuxxfhoNWfDRM5JVIWdGuDw6XFWiZIvxAXk2DL/S3eBqjlIO6g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Code.id\\Documents\\Harfianto\\github\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj",
+=======
+  "dgSpecHash": "m58gqBfy5GsdJtz8OAvI12Z2vZKbbuEtiRcNn0K3h2G8np0Shti1/+qRmm4O+HooiR9X9akTVIbOp8W7igyHXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\oktarian\\AWork.Domain\\AWork.Domain.csproj",
+>>>>>>> origin/oktarian
   "expectedPackageFiles": [],
   "logs": []
 }

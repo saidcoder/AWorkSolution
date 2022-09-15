@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Code.id\\Documents\\Harfianto\\github\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj": {}
+    "C:\\Users\\User\\Desktop\\oktarian\\AWork.Domain\\AWork.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Code.id\\Documents\\Harfianto\\github\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj": {
+    "C:\\Users\\User\\Desktop\\oktarian\\AWork.Domain\\AWork.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Code.id\\Documents\\Harfianto\\github\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\oktarian\\AWork.Domain\\AWork.Domain.csproj",
         "projectName": "AWork.Domain",
-        "projectPath": "C:\\Users\\Code.id\\Documents\\Harfianto\\github\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj",
-        "packagesPath": "C:\\Users\\Code.id\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Code.id\\Documents\\Harfianto\\github\\AWorkSolution-Project\\AWork.Domain\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\oktarian\\AWork.Domain\\AWork.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\oktarian\\AWork.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Code.id\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,8 +45,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
