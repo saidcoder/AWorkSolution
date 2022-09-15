@@ -17,7 +17,7 @@ namespace AWork.Web.Controllers.Person
         public EmailAddressesController(AdventureWorks2019Context context)
         {
             _context = context;
-        }
+        } 
 
         // GET: EmailAddresses
         public async Task<IActionResult> Index()
