@@ -9,9 +9,9 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<table class="table">
+<table class="table table-bordered">
     <thead>
-        <tr>
+        <tr class="table-Dark">
             <th>
                 @Html.DisplayNameFor(model => model.Name)
             </th>
@@ -21,19 +21,22 @@
             <th>
                 @Html.DisplayNameFor(model => model.ShipRate)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Rowguid)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ModifiedDate)
-            </th>
-            <th></th>
+
+            <th>ACTIONS</th>
         </tr>
     </thead>
     <tbody>
 @foreach (var item in Model) {
-        <tr>
-            <td>
+            <tr class="table-light">
+                <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>@Html.DisplayFor(modelItem => item.Name)</strong></td>
+                <td>@Html.DisplayFor(modelItem => item.ShipBase)</td>
+                <td>@Html.DisplayFor(modelItem => item.ShipRate)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ShipMethodId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.ShipMethodId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ShipMethodId">Delete</a>
+                </td>
+       @*     <td>
                 @Html.DisplayFor(modelItem => item.Name)
             </td>
             <td>
@@ -52,7 +55,7 @@
                 <a asp-action="Edit" asp-route-id="@item.ShipMethodId">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.ShipMethodId">Details</a> |
                 <a asp-action="Delete" asp-route-id="@item.ShipMethodId">Delete</a>
-            </td>
+            </td>*@
         </tr>
 }
     </tbody>
