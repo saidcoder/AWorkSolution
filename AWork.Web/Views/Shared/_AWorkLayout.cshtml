@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 
 <!-- =========================================================
 * Sneat - Bootstrap 5 HTML Admin Template - Pro | v1.0.0
@@ -151,7 +151,7 @@
                             </li>
                         </ul>
                     </li>
-                   @* Modul SALES*@
+                    @* Modul SALES*@
                     <li class="menu-item">
                         <a href="javascript:void(0);" class="menu-link menu-toggle">
                             <i class="menu-icon tf-icons bx bx-lock-open-alt"></i>
@@ -175,7 +175,7 @@
                             </li>
                         </ul>
                     </li>
-                   @*Akhir Modul SALES*@
+                    @*Akhir Modul SALES*@
 
                     @* Modul PERSON*@
                     <li class="menu-item">
@@ -183,8 +183,28 @@
                             <i class="menu-icon tf-icons bx bx-lock-open-alt"></i>
                             <div data-i18n="Authentications">Person</div>
                         </a>
-                    <ul class="menu-sub">
-                            <li class="menu-item active">
+                        <ul class="menu-sub">
+                            <li class="menu-item">
+                                <a class="menu-link" asp-area="" asp-controller="CountryRegions" asp-action="Index">
+                                    <div data-i18n="Account">Country Region</div>
+                                </a>
+                            </li>
+                            <li class="menu-item">
+                                <a class="menu-link" asp-area="" asp-controller="AddressTypes" asp-action="Index">
+                                    <div data-i18n="Notifications">Adress Type</div>
+                                </a>
+                            </li>
+                            <li class="menu-item">
+                                <a class="menu-link" asp-area="" asp-controller="PhoneNumberTypes" asp-action="Index">
+                                    <div data-i18n="Notifications">Phone Number</div>
+                                </a>
+                            </li>
+                            <li class="menu-item">
+                                <a class="menu-link" asp-area="" asp-controller="BusinessEntities" asp-action="Index">
+                                    <div data-i18n="Notifications">Bussiness Entity</div>
+                                </a>
+                            </li>
+                            <li class="menu-item">
                                <a class="menu-link" asp-area="" asp-controller="EmailAddresses" asp-action="Index">
                                     <div data-i18n="Basic">EmailAddres</div>
                                 </a>
@@ -194,7 +214,7 @@
                                     <div data-i18n="Basic">ContactType</div>
                                 </a>
                             </li>
-                     </ul>
+                        </ul>
                     </li>
                     @*Akhir Modul PERSON*@
 
@@ -429,7 +449,6 @@
         <div class="layout-overlay layout-menu-toggle"></div>
     </div>
     <!-- / Layout wrapper -->
-
     <!-- Core JS -->
     <!-- build:js assets/vendor/js/core.js -->
     <script src="~/lib/sneat-1.0.0/assets/vendor/libs/jquery/jquery.js"></script>
@@ -453,4 +472,3 @@
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
- 
