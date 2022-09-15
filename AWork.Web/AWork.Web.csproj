@@ -26,6 +26,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Controllers\Person\" />
     <Folder Include="Repository\" />
     <Folder Include="Resources\Images\" />
   </ItemGroup>
