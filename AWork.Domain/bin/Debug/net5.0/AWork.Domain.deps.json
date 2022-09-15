@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "AWork.Domain/1.0.0": {
+        "dependencies": {
+          "AWork.Contracts": "1.0.0"
+        },
         "runtime": {
           "AWork.Domain.dll": {}
+        }
+      },
+      "AWork.Contracts/1.0.0": {
+        "runtime": {
+          "AWork.Contracts.dll": {}
         }
       }
     }
   },
   "libraries": {
     "AWork.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWork.Contracts/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
