@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Code.id\\Documents\\Harfianto\\github\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj": {}
+    "C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Persistence\\AWork.Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Code.id\\Documents\\Harfianto\\github\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj": {
+    "C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Persistence\\AWork.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Code.id\\Documents\\Harfianto\\github\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Persistence\\AWork.Persistence.csproj",
         "projectName": "AWork.Persistence",
-        "projectPath": "C:\\Users\\Code.id\\Documents\\Harfianto\\github\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj",
+        "projectPath": "C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Persistence\\AWork.Persistence.csproj",
         "packagesPath": "C:\\Users\\Code.id\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Code.id\\Documents\\Harfianto\\github\\AWorkSolution-Project\\AWork.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Code.id\\AppData\\Roaming\\NuGet\\NuGet.Config",

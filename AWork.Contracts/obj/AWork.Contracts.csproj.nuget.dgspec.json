@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Code.id\\Documents\\Harfianto\\github\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {}
+    "C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Contracts\\AWork.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Code.id\\Documents\\Harfianto\\github\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
+    "C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Contracts\\AWork.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Code.id\\Documents\\Harfianto\\github\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Contracts\\AWork.Contracts.csproj",
         "projectName": "AWork.Contracts",
-        "projectPath": "C:\\Users\\Code.id\\Documents\\Harfianto\\github\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj",
+        "projectPath": "C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Contracts\\AWork.Contracts.csproj",
         "packagesPath": "C:\\Users\\Code.id\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Code.id\\Documents\\Harfianto\\github\\AWorkSolution-Project\\AWork.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Code.id\\AppData\\Roaming\\NuGet\\NuGet.Config",

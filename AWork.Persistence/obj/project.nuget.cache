@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PfA+2Vacb+zh5tGQa4N40S8Iv/CYpq4bea2Ino/yIjtd41aUBeV3IRc+UAuajOHmE6kdgdsC5Oj0rj3voBYVGQ==",
+  "dgSpecHash": "i+ET/o2CAq9xNFmACgeWL4Pl2VCZwTu4+c8GT1cOX/acF3jLufaxqKLB4WhgkCD+Al9yfO6iXPQCCR92HTq7hQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Code.id\\Documents\\Harfianto\\github\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Code.id\\Documents\\Harfianto\\Harfianto\\AWork.Persistence\\AWork.Persistence.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Code.id\\Documents\\Harfianto\\github\\AWorkSolution-Project\\AWork.Persistence\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
