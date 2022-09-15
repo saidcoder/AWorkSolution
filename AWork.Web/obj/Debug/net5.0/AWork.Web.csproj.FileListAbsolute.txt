@@ -151,8 +151,6 @@ C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Web\obj\Debug\net5.0\
 C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Web\obj\Debug\net5.0\AWork.Web.genruntimeconfig.cache
 C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Web\obj\Debug\net5.0\ref\AWork.Web.dll
 <<<<<<< HEAD
-C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Web\obj\Debug\net5.0\AWork.Web.csproj.CopyComplete
-C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Web\obj\Debug\net5.0\Razor\Views\Shared\_AWorkLayout.cshtml.g.cs
 C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\bin\Debug\net5.0\appsettings.json
 C:\Users\Code.id\Documents\Harfianto\github\AWorkSolution-Project\AWork.Web\bin\Debug\net5.0\AWork.Web.exe

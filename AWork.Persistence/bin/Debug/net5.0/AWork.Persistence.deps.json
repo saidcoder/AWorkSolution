@@ -7,11 +7,6 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "AWork.Persistence/1.0.0": {
-<<<<<<< HEAD
-        "runtime": {
-          "AWork.Persistence.dll": {}
-        }
-=======
         "dependencies": {
           "AWork.Contracts": "1.0.0",
           "AWork.Domain": "1.0.0",
@@ -1086,7 +1081,6 @@
         "runtime": {
           "AWork.Domain.dll": {}
         }
->>>>>>> 19c29899a7dd6d902468230597a17adea23aae0c
       }
     }
   },
@@ -1095,8 +1089,6 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
-<<<<<<< HEAD
-=======
     },
     "Humanizer.Core/2.8.26": {
       "type": "package",
@@ -1786,7 +1778,6 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
->>>>>>> 19c29899a7dd6d902468230597a17adea23aae0c
     }
   }
 }

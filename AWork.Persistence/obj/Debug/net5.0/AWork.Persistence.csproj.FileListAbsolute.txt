@@ -45,3 +45,11 @@ C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\obj\Debug
 C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.genruntimeconfig.cache
 C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Persistence\obj\Debug\net5.0\ref\AWork.Persistence.dll
 >>>>>>> 19c29899a7dd6d902468230597a17adea23aae0c
+C:\Users\Code.id\Documents\Harfianto\Harfianto\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.runtimeconfig.json
+C:\Users\Code.id\Documents\Harfianto\Harfianto\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.runtimeconfig.dev.json
+C:\Users\Code.id\Documents\Harfianto\Harfianto\AWork.Persistence\bin\Debug\net5.0\AWork.Contracts.dll
+C:\Users\Code.id\Documents\Harfianto\Harfianto\AWork.Persistence\bin\Debug\net5.0\AWork.Domain.dll
+C:\Users\Code.id\Documents\Harfianto\Harfianto\AWork.Persistence\bin\Debug\net5.0\AWork.Contracts.pdb
+C:\Users\Code.id\Documents\Harfianto\Harfianto\AWork.Persistence\bin\Debug\net5.0\AWork.Domain.pdb
+C:\Users\Code.id\Documents\Harfianto\Harfianto\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.csproj.CopyComplete
+C:\Users\Code.id\Documents\Harfianto\Harfianto\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.genruntimeconfig.cache
