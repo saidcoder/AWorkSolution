@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Persistence\\AWork.Persistence.csproj": {}
+    "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\AWork.Contracts.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\AWork.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj",
         "projectName": "AWork.Contracts",
-        "projectPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\AWork.Contracts.csproj",
-        "packagesPath": "C:\\Users\\CODE.ID\\.nuget\\packages\\",
-        "outputPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\obj\\",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CODE.ID\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,8 +45,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,21 +54,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Domain\\AWork.Domain.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Domain\\AWork.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj",
         "projectName": "AWork.Domain",
-        "projectPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Domain\\AWork.Domain.csproj",
-        "packagesPath": "C:\\Users\\CODE.ID\\.nuget\\packages\\",
-        "outputPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Domain\\obj\\",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CODE.ID\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\AWork.Contracts.csproj": {
-                "projectPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\AWork.Contracts.csproj"
+              "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
+                "projectPath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj"
               }
             }
           }
@@ -104,8 +103,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -114,21 +112,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Persistence\\AWork.Persistence.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Persistence\\AWork.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj",
         "projectName": "AWork.Persistence",
-        "projectPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Persistence\\AWork.Persistence.csproj",
-        "packagesPath": "C:\\Users\\CODE.ID\\.nuget\\packages\\",
-        "outputPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Persistence\\obj\\",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CODE.ID\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -142,11 +140,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\AWork.Contracts.csproj": {
-                "projectPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\AWork.Contracts.csproj"
+              "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
+                "projectPath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj"
               },
-              "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Domain\\AWork.Domain.csproj": {
-                "projectPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Domain\\AWork.Domain.csproj"
+              "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj"
               }
             }
           }
@@ -184,8 +182,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -194,7 +191,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
