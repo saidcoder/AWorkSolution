@@ -10,3 +10,15 @@ C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Contracts\obj\Debug\n
 C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Contracts\obj\Debug\net5.0\refint\AWork.Contracts.dll
 C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.pdb
 C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Contracts\obj\Debug\net5.0\ref\AWork.Contracts.dll
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Contracts\bin\Debug\net5.0\AWork.Contracts.deps.json
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Contracts\bin\Debug\net5.0\AWork.Contracts.dll
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Contracts\bin\Debug\net5.0\AWork.Contracts.pdb
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.csproj.AssemblyReference.cache
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.AssemblyInfoInputs.cache
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.AssemblyInfo.cs
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.dll
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\refint\AWork.Contracts.dll
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.pdb
+D:\BOOTCAMP\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\ref\AWork.Contracts.dll
