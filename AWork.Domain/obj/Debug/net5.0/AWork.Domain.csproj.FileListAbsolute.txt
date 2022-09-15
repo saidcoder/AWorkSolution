@@ -13,18 +13,18 @@ C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\obj\Debug\net5
 C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\obj\Debug\net5.0\refint\AWork.Domain.dll
 C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\obj\Debug\net5.0\AWork.Domain.pdb
 C:\Farid\Materi Bootcamp\Final Project\AWorkSolution\AWork.Domain\obj\Debug\net5.0\ref\AWork.Domain.dll
-D:\CSharp\finalproject\AWork.Domain\bin\Debug\net5.0\AWork.Domain.deps.json
-D:\CSharp\finalproject\AWork.Domain\bin\Debug\net5.0\AWork.Domain.dll
-D:\CSharp\finalproject\AWork.Domain\bin\Debug\net5.0\AWork.Domain.pdb
-D:\CSharp\finalproject\AWork.Domain\bin\Debug\net5.0\AWork.Contracts.dll
-D:\CSharp\finalproject\AWork.Domain\bin\Debug\net5.0\AWork.Contracts.pdb
-D:\CSharp\finalproject\AWork.Domain\obj\Debug\net5.0\AWork.Domain.csproj.AssemblyReference.cache
-D:\CSharp\finalproject\AWork.Domain\obj\Debug\net5.0\AWork.Domain.GeneratedMSBuildEditorConfig.editorconfig
-D:\CSharp\finalproject\AWork.Domain\obj\Debug\net5.0\AWork.Domain.AssemblyInfoInputs.cache
-D:\CSharp\finalproject\AWork.Domain\obj\Debug\net5.0\AWork.Domain.AssemblyInfo.cs
-D:\CSharp\finalproject\AWork.Domain\obj\Debug\net5.0\AWork.Domain.csproj.CoreCompileInputs.cache
-D:\CSharp\finalproject\AWork.Domain\obj\Debug\net5.0\AWork.Domain.csproj.CopyComplete
-D:\CSharp\finalproject\AWork.Domain\obj\Debug\net5.0\AWork.Domain.dll
-D:\CSharp\finalproject\AWork.Domain\obj\Debug\net5.0\refint\AWork.Domain.dll
-D:\CSharp\finalproject\AWork.Domain\obj\Debug\net5.0\AWork.Domain.pdb
-D:\CSharp\finalproject\AWork.Domain\obj\Debug\net5.0\ref\AWork.Domain.dll
+D:\final\AWork.Domain\bin\Debug\net5.0\AWork.Domain.deps.json
+D:\final\AWork.Domain\bin\Debug\net5.0\AWork.Domain.dll
+D:\final\AWork.Domain\bin\Debug\net5.0\AWork.Domain.pdb
+D:\final\AWork.Domain\bin\Debug\net5.0\AWork.Contracts.dll
+D:\final\AWork.Domain\bin\Debug\net5.0\AWork.Contracts.pdb
+D:\final\AWork.Domain\obj\Debug\net5.0\AWork.Domain.csproj.AssemblyReference.cache
+D:\final\AWork.Domain\obj\Debug\net5.0\AWork.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\final\AWork.Domain\obj\Debug\net5.0\AWork.Domain.AssemblyInfoInputs.cache
+D:\final\AWork.Domain\obj\Debug\net5.0\AWork.Domain.AssemblyInfo.cs
+D:\final\AWork.Domain\obj\Debug\net5.0\AWork.Domain.csproj.CoreCompileInputs.cache
+D:\final\AWork.Domain\obj\Debug\net5.0\AWork.Domain.csproj.CopyComplete
+D:\final\AWork.Domain\obj\Debug\net5.0\AWork.Domain.dll
+D:\final\AWork.Domain\obj\Debug\net5.0\refint\AWork.Domain.dll
+D:\final\AWork.Domain\obj\Debug\net5.0\AWork.Domain.pdb
+D:\final\AWork.Domain\obj\Debug\net5.0\ref\AWork.Domain.dll
