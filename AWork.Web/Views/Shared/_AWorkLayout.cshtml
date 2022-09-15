@@ -151,6 +151,33 @@
                             </li>
                         </ul>
                     </li>
+                   @* Modul SALES*@
+                    <li class="menu-item">
+                        <a href="javascript:void(0);" class="menu-link menu-toggle">
+                            <i class="menu-icon tf-icons bx bx-lock-open-alt"></i>
+                            <div data-i18n="Authentications">Sales</div>
+                        </a>
+                        <ul class="menu-sub">
+                            <li class="menu-item">
+                                <a class="menu-link" asp-area="" asp-controller="Sales" asp-action="Index">
+                                    <div data-i18n="Basic">Product</div>
+                                </a>
+                            </li>
+                            <li class="menu-item">
+                                <a class="menu-link" asp-area="" asp-controller="Sales" asp-action="Index">
+                                    <div data-i18n="Basic">Orders</div>
+                                </a>
+                            </li>
+                            <li class="menu-item">
+                                <a class="menu-link" asp-area="" asp-controller="Sales" asp-action="Index">
+                                    <div data-i18n="Basic">Shipper</div>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                   @*Akhir Modul SALES*@
+
+                    @* Modul PERSON*@
                     <li class="menu-item">
                         <a href="javascript:void(0);" class="menu-link menu-toggle">
                             <i class="menu-icon tf-icons bx bx-lock-open-alt"></i>
@@ -169,6 +196,87 @@
                             </li>
                      </ul>
                     </li>
+                    @*Akhir Modul PERSON*@
+
+                    @* Modul PURCHASING*@
+                    <li class="menu-item">
+                        <a href="javascript:void(0);" class="menu-link menu-toggle">
+                            <i class="menu-icon tf-icons bx bx-lock-open-alt"></i>
+                            <div data-i18n="Authentications">Purchasing</div>
+                        </a>
+                        <ul class="menu-sub">
+                            <li class="menu-item">
+                                <a class="menu-link" asp-area="" asp-controller="Purchasing" asp-action="Index">
+                                    <div data-i18n="Basic">Product</div>
+                                </a>
+                            </li>
+                            <li class="menu-item">
+                                <a class="menu-link" asp-area="" asp-controller="Purchasing" asp-action="Index">
+                                    <div data-i18n="Basic">Orders</div>
+                                </a>
+                            </li>
+                            <li class="menu-item">
+                                <a class="menu-link" asp-area="" asp-controller="Purchasing" asp-action="Index">
+                                    <div data-i18n="Basic">Shipper</div>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    @*Akhir Modul PURCHASING*@
+
+                    @* Modul HumanResource*@
+                    <li class="menu-item">
+                        <a href="javascript:void(0);" class="menu-link menu-toggle">
+                            <i class="menu-icon tf-icons bx bx-lock-open-alt"></i>
+                            <div data-i18n="Authentications">HumanResource</div>
+                        </a>
+                        <ul class="menu-sub">
+                            <li class="menu-item">
+                                <a class="menu-link" asp-area="" asp-controller="HumanResource" asp-action="Index">
+                                    <div data-i18n="Basic">Product</div>
+                                </a>
+                            </li>
+                            <li class="menu-item">
+                                <a class="menu-link" asp-area="" asp-controller="HumanResource" asp-action="Index">
+                                    <div data-i18n="Basic">Orders</div>
+                                </a>
+                            </li>
+                            <li class="menu-item">
+                                <a class="menu-link" asp-area="" asp-controller="HumanResource" asp-action="Index">
+                                    <div data-i18n="Basic">Shipper</div>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    @*Akhir Modul HumanResource*@
+
+                    @* Modul Production*@
+                    <li class="menu-item">
+                        <a href="javascript:void(0);" class="menu-link menu-toggle">
+                            <i class="menu-icon tf-icons bx bx-lock-open-alt"></i>
+                            <div data-i18n="Authentications">Production</div>
+                        </a>
+                        <ul class="menu-sub">
+                            <li class="menu-item">
+                                <a class="menu-link" asp-area="" asp-controller="Production" asp-action="Index">
+                                    <div data-i18n="Basic">Product</div>
+                                </a>
+                            </li>
+                            <li class="menu-item">
+                                <a class="menu-link" asp-area="" asp-controller="Production" asp-action="Index">
+                                    <div data-i18n="Basic">Orders</div>
+                                </a>
+                            </li>
+                            <li class="menu-item">
+                                <a class="menu-link" asp-area="" asp-controller="Production" asp-action="Index">
+                                    <div data-i18n="Basic">Shipper</div>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    @*Akhir Modul Production*@
+
+
 
             </aside>
             <!-- / Menu -->
@@ -321,6 +429,7 @@
         <div class="layout-overlay layout-menu-toggle"></div>
     </div>
     <!-- / Layout wrapper -->
+
     <!-- Core JS -->
     <!-- build:js assets/vendor/js/core.js -->
     <script src="~/lib/sneat-1.0.0/assets/vendor/libs/jquery/jquery.js"></script>
@@ -344,3 +453,4 @@
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
+ 
