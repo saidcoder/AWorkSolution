@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\HumanResource\" />
     <Folder Include="Controllers\Purchasing\" />
     <Folder Include="Controllers\Sales\" />
     <Folder Include="Controllers\Production\" />

@@ -24,7 +24,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Repositories\HumanResource\" />
     <Folder Include="Repositories\Person\" />
     <Folder Include="Repositories\Production\" />
     <Folder Include="Repositories\Purchasing\" />

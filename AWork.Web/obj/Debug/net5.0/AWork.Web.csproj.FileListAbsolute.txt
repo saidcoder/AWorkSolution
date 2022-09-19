@@ -474,3 +474,8 @@ C:\Users\Lenovo\Documents\Codeid\Batch_17\AWorkSolution-Project\AWork.Web\obj\De
 C:\Users\Lenovo\Documents\Codeid\Batch_17\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWork.Web.pdb
 C:\Users\Lenovo\Documents\Codeid\Batch_17\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWork.Web.genruntimeconfig.cache
 C:\Users\Lenovo\Documents\Codeid\Batch_17\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\ref\AWork.Web.dll
+C:\Users\Lenovo\Documents\Codeid\Batch_17\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\Shifts\Create.cshtml.g.cs
+C:\Users\Lenovo\Documents\Codeid\Batch_17\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\Shifts\Delete.cshtml.g.cs
+C:\Users\Lenovo\Documents\Codeid\Batch_17\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\Shifts\Details.cshtml.g.cs
+C:\Users\Lenovo\Documents\Codeid\Batch_17\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\Shifts\Edit.cshtml.g.cs
+C:\Users\Lenovo\Documents\Codeid\Batch_17\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\Shifts\Index.cshtml.g.cs
