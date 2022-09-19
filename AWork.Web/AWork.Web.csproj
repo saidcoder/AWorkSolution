@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
@@ -17,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.17">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -33,6 +34,8 @@
     <ProjectReference Include="..\AWork.Contracts\AWork.Contracts.csproj" />
     <ProjectReference Include="..\AWork.Domain\AWork.Domain.csproj" />
     <ProjectReference Include="..\AWork.Persistence\AWork.Persistence.csproj" />
+    <ProjectReference Include="..\AWork.Services.Abstraction\AWork.Services.Abstraction.csproj" />
+    <ProjectReference Include="..\AWork.Services\AWork.Services.csproj" />
   </ItemGroup>
 
 </Project>
