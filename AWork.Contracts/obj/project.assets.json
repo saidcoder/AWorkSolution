@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\CODE.ID\\.nuget\\packages\\": {}
+    "C:\\Users\\asus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\AWork.Contracts.csproj",
+      "projectUniqueName": "E:\\Bootcamp\\New Final Project\\AWork.Contracts\\AWork.Contracts.csproj",
       "projectName": "AWork.Contracts",
-      "projectPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\AWork.Contracts.csproj",
-      "packagesPath": "C:\\Users\\CODE.ID\\.nuget\\packages\\",
-      "outputPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\obj\\",
+      "projectPath": "E:\\Bootcamp\\New Final Project\\AWork.Contracts\\AWork.Contracts.csproj",
+      "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+      "outputPath": "E:\\Bootcamp\\New Final Project\\AWork.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\CODE.ID\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

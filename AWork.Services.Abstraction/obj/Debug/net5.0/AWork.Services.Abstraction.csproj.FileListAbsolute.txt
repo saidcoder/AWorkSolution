@@ -1,0 +1,15 @@
+E:\Bootcamp\New Final Project\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Services.Abstraction.deps.json
+E:\Bootcamp\New Final Project\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Services.Abstraction.dll
+E:\Bootcamp\New Final Project\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Services.Abstraction.pdb
+E:\Bootcamp\New Final Project\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Contracts.dll
+E:\Bootcamp\New Final Project\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Contracts.pdb
+E:\Bootcamp\New Final Project\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.csproj.AssemblyReference.cache
+E:\Bootcamp\New Final Project\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bootcamp\New Final Project\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.AssemblyInfoInputs.cache
+E:\Bootcamp\New Final Project\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.AssemblyInfo.cs
+E:\Bootcamp\New Final Project\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.csproj.CoreCompileInputs.cache
+E:\Bootcamp\New Final Project\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.csproj.CopyComplete
+E:\Bootcamp\New Final Project\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.dll
+E:\Bootcamp\New Final Project\AWork.Services.Abstraction\obj\Debug\net5.0\refint\AWork.Services.Abstraction.dll
+E:\Bootcamp\New Final Project\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.pdb
+E:\Bootcamp\New Final Project\AWork.Services.Abstraction\obj\Debug\net5.0\ref\AWork.Services.Abstraction.dll
