@@ -28,3 +28,18 @@ D:\final\AWork.Domain\obj\Debug\net5.0\AWork.Domain.dll
 D:\final\AWork.Domain\obj\Debug\net5.0\refint\AWork.Domain.dll
 D:\final\AWork.Domain\obj\Debug\net5.0\AWork.Domain.pdb
 D:\final\AWork.Domain\obj\Debug\net5.0\ref\AWork.Domain.dll
+C:\Users\Code.id\Documents\mini projeck\AWork.Domain\bin\Debug\net5.0\AWork.Domain.deps.json
+C:\Users\Code.id\Documents\mini projeck\AWork.Domain\bin\Debug\net5.0\AWork.Domain.dll
+C:\Users\Code.id\Documents\mini projeck\AWork.Domain\bin\Debug\net5.0\AWork.Domain.pdb
+C:\Users\Code.id\Documents\mini projeck\AWork.Domain\bin\Debug\net5.0\AWork.Contracts.dll
+C:\Users\Code.id\Documents\mini projeck\AWork.Domain\bin\Debug\net5.0\AWork.Contracts.pdb
+C:\Users\Code.id\Documents\mini projeck\AWork.Domain\obj\Debug\net5.0\AWork.Domain.csproj.AssemblyReference.cache
+C:\Users\Code.id\Documents\mini projeck\AWork.Domain\obj\Debug\net5.0\AWork.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code.id\Documents\mini projeck\AWork.Domain\obj\Debug\net5.0\AWork.Domain.AssemblyInfoInputs.cache
+C:\Users\Code.id\Documents\mini projeck\AWork.Domain\obj\Debug\net5.0\AWork.Domain.AssemblyInfo.cs
+C:\Users\Code.id\Documents\mini projeck\AWork.Domain\obj\Debug\net5.0\AWork.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Code.id\Documents\mini projeck\AWork.Domain\obj\Debug\net5.0\AWork.Domain.csproj.CopyComplete
+C:\Users\Code.id\Documents\mini projeck\AWork.Domain\obj\Debug\net5.0\AWork.Domain.dll
+C:\Users\Code.id\Documents\mini projeck\AWork.Domain\obj\Debug\net5.0\refint\AWork.Domain.dll
+C:\Users\Code.id\Documents\mini projeck\AWork.Domain\obj\Debug\net5.0\AWork.Domain.pdb
+C:\Users\Code.id\Documents\mini projeck\AWork.Domain\obj\Debug\net5.0\ref\AWork.Domain.dll

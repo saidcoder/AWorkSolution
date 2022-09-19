@@ -1,26 +1,45 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "AWork.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/AWork.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AWork.Contracts.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AWork.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../AWork.Contracts/AWork.Contracts.csproj",
+      "msbuildProject": "../AWork.Contracts/AWork.Contracts.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "AWork.Contracts >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\CODE.ID\\.nuget\\packages\\": {}
+    "C:\\Users\\Code.id\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
+      "projectUniqueName": "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
       "projectName": "AWork.Services.Abstraction",
-      "projectPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
-      "packagesPath": "C:\\Users\\CODE.ID\\.nuget\\packages\\",
-      "outputPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Services.Abstraction\\obj\\",
+      "projectPath": "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
+      "packagesPath": "C:\\Users\\Code.id\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Services.Abstraction\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\CODE.ID\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Code.id\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Contracts\\AWork.Contracts.csproj": {
+              "projectPath": "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Contracts\\AWork.Contracts.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
