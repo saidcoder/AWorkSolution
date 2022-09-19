@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Zqe9dYKvSY3x32ngflCPECibWmLfTTwaNzQmF998xSeDoF83Ywg6JfMZjxBFyfcF1+bPu0LrsLknoh8s2O+UdA==",
+  "dgSpecHash": "MW0QlPQwe3rdks7qy5IwNn9tERK8wwOI9aZ1akbpArEOsFHkkBUL1DGOiMxLRoJIWaNx4NFeM5xmdCLmCiHKxQ==",
   "success": true,
-  "projectFilePath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\BOOTCAMP\\AWorkSolutionProject\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\irham\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

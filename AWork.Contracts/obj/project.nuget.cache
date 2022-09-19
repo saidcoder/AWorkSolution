@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "r5HMalIavRpvT/Dk98UHdAQsPl32fLnQaJfdy/FkJ7AV8OHNAKgc+VovsC6mtRxCYWNdBMeck5d2spnvxElzHQ==",
+  "dgSpecHash": "jlHfKxaitLpNygs/tbQ8MhscmG/+abFRPrlpBqAGi5xjcjv5JItGfun5Ni0lTw7Ta6KAKXy/qt5OKSN64sJTXA==",
   "success": true,
-  "projectFilePath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\AWork.Contracts.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\BOOTCAMP\\AWorkSolutionProject\\AWork.Contracts\\AWork.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\irham\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
