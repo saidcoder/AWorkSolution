@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ghp3/y+c/fboSTI1mTlQgVk4hEI1GzQ/RafQwdDgyEYN4RJD1iA3O+rMN/v/fsZlqBZyN4CBxqn8G7OhUgEEWg==",
+  "dgSpecHash": "Xxu1+HqKExWvtmMEGfAUiZ9wXdTD+s1EZC0e0eXA2xZuNOrxFknksWm0xv03qSsdTDSzZHsoG5E9+Bg44DyCpw==",
   "success": true,
-  "projectFilePath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Persistence\\AWork.Persistence.csproj",
+  "projectFilePath": "C:\\Farid\\Final Project\\AWork.Persistence\\AWork.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CODE.ID\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\CODE.ID\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

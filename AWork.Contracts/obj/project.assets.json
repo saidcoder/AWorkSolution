@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\AWork.Contracts.csproj",
+      "projectUniqueName": "C:\\Farid\\Final Project\\AWork.Contracts\\AWork.Contracts.csproj",
       "projectName": "AWork.Contracts",
-      "projectPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\AWork.Contracts.csproj",
+      "projectPath": "C:\\Farid\\Final Project\\AWork.Contracts\\AWork.Contracts.csproj",
       "packagesPath": "C:\\Users\\CODE.ID\\.nuget\\packages\\",
-      "outputPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\obj\\",
+      "outputPath": "C:\\Farid\\Final Project\\AWork.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CODE.ID\\AppData\\Roaming\\NuGet\\NuGet.Config",

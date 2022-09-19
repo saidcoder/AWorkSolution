@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zcAdSy2dYB9cNUBYQmQ6gNUwp5X+KUB7F4k8bnNzx6EHaWBRIY91BkROxeXlkYuYz3k747KF3xu4KVaghzLQ6g==",
+  "dgSpecHash": "5GgKj+KDY6I09J2O1466H+KeamC6axbvA4zhQLoKEI7LBWJFc2SD9f5yo7nx8L6vgYWcI4fY0Pbj3Q7R/DtR1Q==",
   "success": true,
-  "projectFilePath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Web\\AWork.Web.csproj",
+  "projectFilePath": "C:\\Farid\\Final Project\\AWork.Web\\AWork.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CODE.ID\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\CODE.ID\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

@@ -38,7 +38,7 @@ namespace AWork.Web
 
             services.AddAutoMapper(typeof(Startup));
 
-            // conection to database
+            // conection to databases
             services.AddDbContext<AdventureWorks2019Context>(opts =>
             {
                 opts.UseSqlServer(Configuration["ConnectionStrings:AdventureWorks2019Db"]);

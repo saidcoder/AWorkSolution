@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "DMo4o6aimw+pAxb8lZebLstr7xE6baPzhDV7h7Ma/qokYJ2muhizJgDR1fMAuFAOx6nKAcPCznINVIRR1BZDYQ==",
+  "dgSpecHash": "QbKjUFR9XQRcU3hJ7lKKYxqjR2Zk6eJULOA2eUgqb+5/hZC+UO9q+rOhJBeUOnSQAqsRV29MlqcTUwKbzOTu9Q==",
   "success": true,
-  "projectFilePath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Services\\AWork.Services.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Farid\\Final Project\\AWork.Services\\AWork.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CODE.ID\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\CODE.ID\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\CODE.ID\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\CODE.ID\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\CODE.ID\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\CODE.ID\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\CODE.ID\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zqe9dYKvSY3x32ngflCPECibWmLfTTwaNzQmF998xSeDoF83Ywg6JfMZjxBFyfcF1+bPu0LrsLknoh8s2O+UdA==",
+  "dgSpecHash": "K/pv+S7bsi/mch1RnU7viqjKqIA8yDcS8ChuAM6fU++CGQTFGcZci0EM85Hu5Vra6wfZEHU63AxmO2k8LBFSQQ==",
   "success": true,
-  "projectFilePath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
+  "projectFilePath": "C:\\Farid\\Final Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

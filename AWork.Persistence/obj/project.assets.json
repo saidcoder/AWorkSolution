@@ -6081,11 +6081,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Persistence\\AWork.Persistence.csproj",
+      "projectUniqueName": "C:\\Farid\\Final Project\\AWork.Persistence\\AWork.Persistence.csproj",
       "projectName": "AWork.Persistence",
-      "projectPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Persistence\\AWork.Persistence.csproj",
+      "projectPath": "C:\\Farid\\Final Project\\AWork.Persistence\\AWork.Persistence.csproj",
       "packagesPath": "C:\\Users\\CODE.ID\\.nuget\\packages\\",
-      "outputPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Persistence\\obj\\",
+      "outputPath": "C:\\Farid\\Final Project\\AWork.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CODE.ID\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6102,11 +6102,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\AWork.Contracts.csproj": {
-              "projectPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\AWork.Contracts.csproj"
+            "C:\\Farid\\Final Project\\AWork.Contracts\\AWork.Contracts.csproj": {
+              "projectPath": "C:\\Farid\\Final Project\\AWork.Contracts\\AWork.Contracts.csproj"
             },
-            "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Domain\\AWork.Domain.csproj": {
-              "projectPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Domain\\AWork.Domain.csproj"
+            "C:\\Farid\\Final Project\\AWork.Domain\\AWork.Domain.csproj": {
+              "projectPath": "C:\\Farid\\Final Project\\AWork.Domain\\AWork.Domain.csproj"
             }
           }
         }

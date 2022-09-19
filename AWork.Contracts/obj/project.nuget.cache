@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r5HMalIavRpvT/Dk98UHdAQsPl32fLnQaJfdy/FkJ7AV8OHNAKgc+VovsC6mtRxCYWNdBMeck5d2spnvxElzHQ==",
+  "dgSpecHash": "jYTUv00kNXMhXMMIrowMLu/uk0FNarZ2/RgS3aAdTrzEuBanuNg75YRMjFZ7/Tg4PFJPDZZh8qpBXyi9ruzf4A==",
   "success": true,
-  "projectFilePath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\AWork.Contracts.csproj",
+  "projectFilePath": "C:\\Farid\\Final Project\\AWork.Contracts\\AWork.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

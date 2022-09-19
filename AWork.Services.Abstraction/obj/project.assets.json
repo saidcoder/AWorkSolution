@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "AWork.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/AWork.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AWork.Contracts.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AWork.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../AWork.Contracts/AWork.Contracts.csproj",
+      "msbuildProject": "../AWork.Contracts/AWork.Contracts.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "AWork.Contracts >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\CODE.ID\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
+      "projectUniqueName": "C:\\Farid\\Final Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
       "projectName": "AWork.Services.Abstraction",
-      "projectPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
+      "projectPath": "C:\\Farid\\Final Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
       "packagesPath": "C:\\Users\\CODE.ID\\.nuget\\packages\\",
-      "outputPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Services.Abstraction\\obj\\",
+      "outputPath": "C:\\Farid\\Final Project\\AWork.Services.Abstraction\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CODE.ID\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Farid\\Final Project\\AWork.Contracts\\AWork.Contracts.csproj": {
+              "projectPath": "C:\\Farid\\Final Project\\AWork.Contracts\\AWork.Contracts.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
