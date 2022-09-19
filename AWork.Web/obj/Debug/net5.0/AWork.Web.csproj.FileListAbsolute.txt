@@ -474,3 +474,8 @@ C:\Users\Code.id\Documents\mini projeck\AWork.Web\obj\Debug\net5.0\AWork.Web.Vie
 C:\Users\Code.id\Documents\mini projeck\AWork.Web\obj\Debug\net5.0\AWork.Web.csproj.CopyComplete
 C:\Users\Code.id\Documents\mini projeck\AWork.Web\obj\Debug\net5.0\AWork.Web.genruntimeconfig.cache
 C:\Users\Code.id\Documents\mini projeck\AWork.Web\obj\Debug\net5.0\ref\AWork.Web.dll
+C:\Users\Code.id\Documents\mini projeck\AWork.Web\obj\Debug\net5.0\Razor\Views\LocationsService\Create.cshtml.g.cs
+C:\Users\Code.id\Documents\mini projeck\AWork.Web\obj\Debug\net5.0\Razor\Views\LocationsService\Delete.cshtml.g.cs
+C:\Users\Code.id\Documents\mini projeck\AWork.Web\obj\Debug\net5.0\Razor\Views\LocationsService\Details.cshtml.g.cs
+C:\Users\Code.id\Documents\mini projeck\AWork.Web\obj\Debug\net5.0\Razor\Views\LocationsService\Edit.cshtml.g.cs
+C:\Users\Code.id\Documents\mini projeck\AWork.Web\obj\Debug\net5.0\Razor\Views\LocationsService\Index.cshtml.g.cs

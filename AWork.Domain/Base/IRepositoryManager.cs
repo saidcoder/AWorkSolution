@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AWork.Domain.Repositories.Production;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,7 @@ namespace AWork.Domain.Base
     {
         /*ICategoryRepository CategoryRepository { get; }*/
 
+        ILocationRepository LocationRepository { get; }
         void Save();
 
         Task SaveAsync();

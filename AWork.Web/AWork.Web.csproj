@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
@@ -10,7 +10,6 @@
     <Folder Include="Controllers\HumanResource\" />
     <Folder Include="Controllers\Purchasing\" />
     <Folder Include="Controllers\Sales\" />
-    <Folder Include="Controllers\Production\" />
     <Folder Include="Controllers\Person\" />
     <Folder Include="Repository\" />
     <Folder Include="Resources\Images\" />

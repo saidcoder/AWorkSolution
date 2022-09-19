@@ -13,3 +13,5 @@ C:\Users\Code.id\Documents\mini projeck\AWork.Services.Abstraction\obj\Debug\net
 C:\Users\Code.id\Documents\mini projeck\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Contracts.dll
 C:\Users\Code.id\Documents\mini projeck\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Contracts.pdb
 C:\Users\Code.id\Documents\mini projeck\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.csproj.CopyComplete
+C:\Users\Code.id\Documents\mini projeck\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Domain.dll
+C:\Users\Code.id\Documents\mini projeck\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Domain.pdb

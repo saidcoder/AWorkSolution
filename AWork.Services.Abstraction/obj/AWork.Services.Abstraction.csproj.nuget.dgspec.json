@@ -59,6 +59,65 @@
         }
       }
     },
+    "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Domain\\AWork.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Domain\\AWork.Domain.csproj",
+        "projectName": "AWork.Domain",
+        "projectPath": "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Domain\\AWork.Domain.csproj",
+        "packagesPath": "C:\\Users\\Code.id\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Code.id\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Contracts\\AWork.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Contracts\\AWork.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -85,6 +144,9 @@
             "projectReferences": {
               "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Contracts\\AWork.Contracts.csproj": {
                 "projectPath": "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Contracts\\AWork.Contracts.csproj"
+              },
+              "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Domain\\AWork.Domain.csproj": {
+                "projectPath": "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Domain\\AWork.Domain.csproj"
               }
             }
           }

@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v5.0": {
       "AWork.Services.Abstraction/1.0.0": {
         "dependencies": {
-          "AWork.Contracts": "1.0.0"
+          "AWork.Contracts": "1.0.0",
+          "AWork.Domain": "1.0.0"
         },
         "runtime": {
           "AWork.Services.Abstraction.dll": {}
@@ -17,6 +18,14 @@
       "AWork.Contracts/1.0.0": {
         "runtime": {
           "AWork.Contracts.dll": {}
+        }
+      },
+      "AWork.Domain/1.0.0": {
+        "dependencies": {
+          "AWork.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "AWork.Domain.dll": {}
         }
       }
     }
@@ -28,6 +37,11 @@
       "sha512": ""
     },
     "AWork.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWork.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

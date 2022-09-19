@@ -224,6 +224,9 @@
             "projectReferences": {
               "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Contracts\\AWork.Contracts.csproj": {
                 "projectPath": "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Contracts\\AWork.Contracts.csproj"
+              },
+              "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Domain\\AWork.Domain.csproj": {
+                "projectPath": "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Domain\\AWork.Domain.csproj"
               }
             }
           }
@@ -302,6 +305,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

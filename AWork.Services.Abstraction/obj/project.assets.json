@@ -11,6 +11,19 @@
         "runtime": {
           "bin/placeholder/AWork.Contracts.dll": {}
         }
+      },
+      "AWork.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "AWork.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AWork.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AWork.Domain.dll": {}
+        }
       }
     }
   },
@@ -19,11 +32,17 @@
       "type": "project",
       "path": "../AWork.Contracts/AWork.Contracts.csproj",
       "msbuildProject": "../AWork.Contracts/AWork.Contracts.csproj"
+    },
+    "AWork.Domain/1.0.0": {
+      "type": "project",
+      "path": "../AWork.Domain/AWork.Domain.csproj",
+      "msbuildProject": "../AWork.Domain/AWork.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "AWork.Contracts >= 1.0.0"
+      "AWork.Contracts >= 1.0.0",
+      "AWork.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -55,6 +74,9 @@
           "projectReferences": {
             "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Contracts\\AWork.Contracts.csproj": {
               "projectPath": "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Contracts\\AWork.Contracts.csproj"
+            },
+            "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Domain\\AWork.Domain.csproj": {
+              "projectPath": "C:\\Users\\Code.id\\Documents\\mini projeck\\AWork.Domain\\AWork.Domain.csproj"
             }
           }
         }
