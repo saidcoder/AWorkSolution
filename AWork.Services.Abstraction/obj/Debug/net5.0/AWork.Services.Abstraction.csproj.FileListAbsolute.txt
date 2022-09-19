@@ -1,0 +1,12 @@
+D:\AWork\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Services.Abstraction.deps.json
+D:\AWork\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Services.Abstraction.dll
+D:\AWork\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Services.Abstraction.pdb
+D:\AWork\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.csproj.AssemblyReference.cache
+D:\AWork\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\AWork\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.AssemblyInfoInputs.cache
+D:\AWork\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.AssemblyInfo.cs
+D:\AWork\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.csproj.CoreCompileInputs.cache
+D:\AWork\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.dll
+D:\AWork\AWork.Services.Abstraction\obj\Debug\net5.0\refint\AWork.Services.Abstraction.dll
+D:\AWork\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.pdb
+D:\AWork\AWork.Services.Abstraction\obj\Debug\net5.0\ref\AWork.Services.Abstraction.dll

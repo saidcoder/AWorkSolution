@@ -4,4 +4,9 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AWork.Domain\AWork.Domain.csproj" />
+    <ProjectReference Include="..\AWork.Services.Abstraction\AWork.Services.Abstraction.csproj" />
+  </ItemGroup>
+
 </Project>

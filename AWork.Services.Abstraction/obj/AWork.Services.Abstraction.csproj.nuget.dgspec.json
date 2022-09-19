@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {}
+    "D:\\AWork\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {}
   },
   "projects": {
-    "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {
+    "D:\\AWork\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
+        "projectUniqueName": "D:\\AWork\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
         "projectName": "AWork.Services.Abstraction",
-        "projectPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
+        "projectPath": "D:\\AWork\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
         "packagesPath": "C:\\Users\\CODE.ID\\.nuget\\packages\\",
-        "outputPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Services.Abstraction\\obj\\",
+        "outputPath": "D:\\AWork\\AWork.Services.Abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CODE.ID\\AppData\\Roaming\\NuGet\\NuGet.Config",
