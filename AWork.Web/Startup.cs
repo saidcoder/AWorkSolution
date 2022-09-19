@@ -1,4 +1,8 @@
+using AWork.Domain.Base;
 using AWork.Persistence;
+using AWork.Persistence.Base;
+using AWork.Services;
+using AWork.Services.Abstraction;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -29,6 +33,12 @@ namespace AWork.Web
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddScoped<IRepositoryManager, RepositoryManager>();
+            services.AddScoped<IServiceManager, ServiceManager>();
+
+            services.AddAutoMapper(typeof(Startup));
+
+            // conection to database
             services.AddDbContext<AdventureWorks2019Context>(opts =>
             {
                 opts.UseSqlServer(Configuration["ConnectionStrings:AdventureWorks2019Db"]);
