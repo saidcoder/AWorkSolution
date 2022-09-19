@@ -36,6 +36,7 @@ namespace AWork.Web
             services.AddScoped<IRepositoryManager, RepositoryManager>();
             services.AddScoped<IServiceManager, ServiceManager>();
 
+
             services.AddAutoMapper(typeof(Startup));
 
             // conection to database
