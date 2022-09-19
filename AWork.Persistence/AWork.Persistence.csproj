@@ -23,4 +23,12 @@
     <ProjectReference Include="..\AWork.Domain\AWork.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Repositories\HumanResource\" />
+    <Folder Include="Repositories\Person\" />
+    <Folder Include="Repositories\Production\" />
+    <Folder Include="Repositories\Purchasing\" />
+    <Folder Include="Repositories\Sales\" />
+  </ItemGroup>
+
 </Project>
