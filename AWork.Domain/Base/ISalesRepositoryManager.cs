@@ -12,6 +12,7 @@ namespace AWork.Domain.Base
         ISalesTerritoryRepository SalesTerritoryRepository { get; }
         ISalesPersonRepository SalesPersonRepository { get; }
         IShoppingCartItemRepository ShoppingCartItemRepository { get; }
+        ICustomerRepository CustomerRepository { get; }
 
         void Save();
 

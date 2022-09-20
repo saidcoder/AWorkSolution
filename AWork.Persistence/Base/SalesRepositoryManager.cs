@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using AWork.Domain.Repositories.Sales;
 using AWork.Persistence.Repositories.Sales;
+using System.Runtime.InteropServices;
 
 namespace AWork.Persistence.Base
 {
@@ -17,6 +18,7 @@ namespace AWork.Persistence.Base
         private ISalesTerritoryRepository _salesTerritoryRepository;
         private ISalesPersonRepository _salesPersonRepository;
         private IShoppingCartItemRepository _shoppingCartItemRepository;
+        private ICustomerRepository _customerRepository;
 
         public SalesRepositoryManager(AdventureWorks2019Context dbContext)
         {
@@ -56,6 +58,18 @@ namespace AWork.Persistence.Base
                     _shoppingCartItemRepository = new ShoppingCartItemRepository(_dbContext);
                 }
                 return _shoppingCartItemRepository;
+            }
+        }
+
+        public ICustomerRepository CustomerRepository 
+        { 
+            get
+            {
+                if (_customerRepository == null)
+                {
+                    _customerRepository = new CustomerRepository(_dbContext);
+                }
+                return _customerRepository;
             }
         }
 

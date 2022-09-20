@@ -489,3 +489,8 @@ E:\Bootcamp\New Final Project\AWork.Web\obj\Debug\net5.0\refint\AWork.Web.dll
 E:\Bootcamp\New Final Project\AWork.Web\obj\Debug\net5.0\AWork.Web.pdb
 E:\Bootcamp\New Final Project\AWork.Web\obj\Debug\net5.0\AWork.Web.genruntimeconfig.cache
 E:\Bootcamp\New Final Project\AWork.Web\obj\Debug\net5.0\ref\AWork.Web.dll
+E:\Bootcamp\New Final Project\AWork.Web\obj\Debug\net5.0\Razor\Views\CustomersRepo\Create.cshtml.g.cs
+E:\Bootcamp\New Final Project\AWork.Web\obj\Debug\net5.0\Razor\Views\CustomersRepo\Delete.cshtml.g.cs
+E:\Bootcamp\New Final Project\AWork.Web\obj\Debug\net5.0\Razor\Views\CustomersRepo\Details.cshtml.g.cs
+E:\Bootcamp\New Final Project\AWork.Web\obj\Debug\net5.0\Razor\Views\CustomersRepo\Edit.cshtml.g.cs
+E:\Bootcamp\New Final Project\AWork.Web\obj\Debug\net5.0\Razor\Views\CustomersRepo\Index.cshtml.g.cs
