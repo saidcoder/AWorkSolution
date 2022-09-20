@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using AWork.Contracts.Dto;
 using AWork.Domain.Base;
+using AWork.Domain.Models;
 using AWork.Services.Abstraction.PersonModul;
 using System;
 using System.Collections.Generic;
@@ -33,19 +34,25 @@ namespace AWork.Services.PersonServices
             return countryRegionDto;
         }
 
-        public Task<CountryRegionDto> GetAllCountryRegionByCode(string countryCode, bool trackChanges)
+        public async Task<CountryRegionDto> GetAllCountryRegionByCode(string countryCode, bool trackChanges)
         {
-            throw new NotImplementedException();
+            var countryRegionMdl = await _repositoryManager._countryRegionRepository.GetAllCountryRegionByCode(countryCode, trackChanges);
+            var countryRegionDto = _mapper.Map<CountryRegionDto>(countryRegionMdl);
+            return countryRegionDto;
         }
 
         public void Insert(CountryRegionForCreateDto countryRegionForCreateDto)
         {
-            throw new NotImplementedException();
+            var countryRegionMdl = _mapper.Map<CountryRegion>(countryRegionForCreateDto);
+            _repositoryManager._countryRegionRepository.Insert(countryRegionMdl);
+            _repositoryManager.Save();
         }
 
         public void Remove(CountryRegionDto countryRegionDto)
         {
-            throw new NotImplementedException();
+            var countryRegionMdl = _mapper.Map<CountryRegion>(countryRegionDto);
+            _repositoryManager._countryRegionRepository.Remove(countryRegionMdl);
+            _repositoryManager.SaveAsync();
         }
     }
 }

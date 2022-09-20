@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using AWork.Contracts.Dto;
 using AWork.Domain.Base;
+using AWork.Domain.Models;
 using AWork.Services.Abstraction;
 using AWork.Services.Abstraction.PersonModul;
 using System;
@@ -24,7 +25,9 @@ namespace AWork.Services.PersonServices
 
         public void Delete(PersonDto personDto)
         {
-            throw new NotImplementedException();
+            var personMdl = _mapper.Map<Person>(personDto);
+            _repositoryManager._personRepository.Remove(personMdl);
+            _repositoryManager.SaveAsync();
         }
 
         public void Edit(PersonDto personDto)
@@ -39,14 +42,18 @@ namespace AWork.Services.PersonServices
             return personDto;
         }
 
-        public Task<PersonDto> GetAllPersonById(int personId, bool trackChanges)
+        public async Task<PersonDto> GetAllPersonById(int personId, bool trackChanges)
         {
-            throw new NotImplementedException();
+            var personMdl = await _repositoryManager._personRepository.GetPersonById(personId, trackChanges);
+            var personDto = _mapper.Map<PersonDto>(personMdl);
+            return personDto;
         }
 
         public void Insert(PersonForCreateDto personForCreateDto)
         {
-            throw new NotImplementedException();
+            var personMdl = _mapper.Map<Person>(personForCreateDto);
+            _repositoryManager._personRepository.Insert(personMdl);
+            _repositoryManager.Save();
         }
     }
 }

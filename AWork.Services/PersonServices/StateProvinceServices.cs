@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using AWork.Contracts.Dto;
 using AWork.Domain.Base;
+using AWork.Domain.Models;
 using AWork.Services.Abstraction.PersonModul;
 using System;
 using System.Collections.Generic;
@@ -33,19 +34,25 @@ namespace AWork.Services.PersonServices
             return stateProvinceDto;
         }
 
-        public Task<StateProvinceDto> GetAllStateProvinceById(int stateId, bool trackChanges)
+        public async Task<StateProvinceDto> GetAllStateProvinceById(int stateId, bool trackChanges)
         {
-            throw new NotImplementedException();
+            var stateProvinceMdl = await _repositoryManager._stateProvinceRepository.GetAllStateProvinceById(stateId, trackChanges);
+            var stateProvinceDto = _mapper.Map<StateProvinceDto>(stateProvinceMdl);
+            return stateProvinceDto;
         }
 
         public void Insert(StateProvinceForCreateDto stateProvinceForCreateDto)
         {
-            throw new NotImplementedException();
+            var stateProvinceMdl = _mapper.Map<StateProvince>(stateProvinceForCreateDto);
+            _repositoryManager._stateProvinceRepository.Insert(stateProvinceMdl);
+            _repositoryManager.Save();
         }
 
         public void Remove(StateProvinceDto stateProvinceDto)
         {
-            throw new NotImplementedException();
+            var stateProvinceMdl = _mapper.Map<StateProvince>(stateProvinceDto);
+            _repositoryManager._stateProvinceRepository.Remove(stateProvinceMdl);
+            _repositoryManager.SaveAsync();
         }
     }
 }
