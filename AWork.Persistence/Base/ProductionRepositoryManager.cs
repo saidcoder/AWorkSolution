@@ -6,17 +6,33 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AWork.Domain.Repositories.Production;
+using AWork.Persistence.Repositories.Production;
 
 namespace AWork.Persistence.Base
 {
-    public class RepositoryManager : IRepositoryManager
+    public class ProductionRepositoryManager : IProductionRepositoryManager
     {
         private AdventureWorks2019Context _dbContext;
         /*private ICategoryRepository _categoryRepository;*/
+        private IUnitMeasureRepository _unitMeasureRepository;
 
-        public RepositoryManager(AdventureWorks2019Context dbContext)
+        public ProductionRepositoryManager(AdventureWorks2019Context dbContext)
         {
             _dbContext = dbContext;
+        }
+
+        public IUnitMeasureRepository UnitMeasureRepository
+        {
+            get
+            {
+                if (_unitMeasureRepository == null)
+                {
+                    _unitMeasureRepository = new UnitMeasureRepository(_dbContext);
+                }
+                return _unitMeasureRepository;
+            }
+
         }
 
         /*public ICategoryRepository CategoryRepository
@@ -30,9 +46,9 @@ namespace AWork.Persistence.Base
             }
         }*/
 
-       
 
-        public void Save () => _dbContext.SaveChanges();
+
+        public void Save() => _dbContext.SaveChanges();
         public async Task SaveAsync() => await _dbContext.SaveChangesAsync();
 
     }

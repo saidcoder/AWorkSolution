@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using AWork.Contracts.Dto.Production;
 using AWork.Domain.Models;
 
 namespace AWork.Web.Mapping
@@ -10,6 +11,10 @@ namespace AWork.Web.Mapping
             // CONTOH
             /*CreateMap<Category, CategoryDto>().ReverseMap();
             CreateMap<Category, CategoryForCreateDto>().ReverseMap();*/
+          
+            CreateMap<UnitMeasure, UnitMeasureDto>().ReverseMap();
+            CreateMap<UnitMeasure, UnitMeasureForCreateDto>().ReverseMap();
+
         }
     }
 }

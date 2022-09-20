@@ -474,3 +474,8 @@ C:\Users\User\Desktop\rian\AWork.Web\obj\Debug\net5.0\AWork.Web.Views.pdb
 C:\Users\User\Desktop\rian\AWork.Web\obj\Debug\net5.0\AWork.Web.csproj.CopyComplete
 C:\Users\User\Desktop\rian\AWork.Web\obj\Debug\net5.0\AWork.Web.genruntimeconfig.cache
 C:\Users\User\Desktop\rian\AWork.Web\obj\Debug\net5.0\ref\AWork.Web.dll
+C:\Users\User\Desktop\rian\AWork.Web\obj\Debug\net5.0\Razor\Views\UnitMeasuresService\Create.cshtml.g.cs
+C:\Users\User\Desktop\rian\AWork.Web\obj\Debug\net5.0\Razor\Views\UnitMeasuresService\Delete.cshtml.g.cs
+C:\Users\User\Desktop\rian\AWork.Web\obj\Debug\net5.0\Razor\Views\UnitMeasuresService\Details.cshtml.g.cs
+C:\Users\User\Desktop\rian\AWork.Web\obj\Debug\net5.0\Razor\Views\UnitMeasuresService\Edit.cshtml.g.cs
+C:\Users\User\Desktop\rian\AWork.Web\obj\Debug\net5.0\Razor\Views\UnitMeasuresService\Index.cshtml.g.cs

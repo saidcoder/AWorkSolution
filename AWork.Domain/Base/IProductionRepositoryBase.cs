@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AWork.Domain.Base
 {
-    public interface IRepositoryBase<T>
+    public interface IProductionRepositoryBase<T>
     {
         IQueryable<T> FindAll(bool trackChanges);
 
