@@ -15,14 +15,14 @@ namespace AWork.Persistence.Base
     {
         private readonly AdventureWorks2019Context _dbContext;
         /*private ICategoryRepository _categoryRepository;*/
-        
+        private IContactTypeRepository _contactTypeRepository;
+        private IPasswordRepository _passwordRepository;
+        private IPersonPhoneRepository _personPhoneRepository;
+        private IAddressTypeRepository _addressTypeRepository;
         public RepositoryManager(AdventureWorks2019Context dbContext)
         {
             _dbContext = dbContext;
         }
-
-        private IContactTypeRepository _contactTypeRepository;
-
 
 
         public IContactTypeRepository ContactTypeRepository
@@ -36,8 +36,40 @@ namespace AWork.Persistence.Base
                 return _contactTypeRepository;
             }
         }
+        public IPasswordRepository PasswordRepository
+        {
+            get
+            {
+                if (_passwordRepository == null)
+                {
+                    _passwordRepository = new PasswordRepository(_dbContext);
+                }
+                return _passwordRepository;
+            }
+        }
+        public IPersonPhoneRepository PersonPhoneRepository
+        {
+            get
+            {
+                if (_personPhoneRepository == null)
+                {
+                    _personPhoneRepository = new PersonPhoneRepository(_dbContext);
+                }
+                return _personPhoneRepository;
+            }
+        }
 
-
+        public IAddressTypeRepository AddressTypeRepository
+        {
+            get
+            {
+                if (_addressTypeRepository == null)
+                {
+                    _addressTypeRepository = new AddressTypeRepository(_dbContext);
+                }
+                return _addressTypeRepository;
+            }
+        }
 
         public void Save () => _dbContext.SaveChanges();
         public async Task SaveAsync() => await _dbContext.SaveChangesAsync();

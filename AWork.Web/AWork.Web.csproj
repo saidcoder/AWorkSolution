@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <Folder Include="Controllers\HumanResource\" />
+    <Folder Include="Controllers\Person\" />
     <Folder Include="Controllers\Purchasing\" />
     <Folder Include="Controllers\Sales\" />
     <Folder Include="Controllers\Production\" />

@@ -474,8 +474,3 @@ C:\Users\User\Source\Repos\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWor
 C:\Users\User\Source\Repos\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWork.Web.csproj.CopyComplete
 C:\Users\User\Source\Repos\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\AWork.Web.genruntimeconfig.cache
 C:\Users\User\Source\Repos\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\ref\AWork.Web.dll
-C:\Users\User\Source\Repos\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\ContactTypes\Create.cshtml.g.cs
-C:\Users\User\Source\Repos\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\ContactTypes\Delete.cshtml.g.cs
-C:\Users\User\Source\Repos\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\ContactTypes\Details.cshtml.g.cs
-C:\Users\User\Source\Repos\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\ContactTypes\Edit.cshtml.g.cs
-C:\Users\User\Source\Repos\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\ContactTypes\Index.cshtml.g.cs

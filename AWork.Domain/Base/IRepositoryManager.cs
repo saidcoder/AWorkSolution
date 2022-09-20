@@ -12,6 +12,11 @@ namespace AWork.Domain.Base
         /*ICategoryRepository CategoryRepository { get; }*/
         IContactTypeRepository ContactTypeRepository { get; }
 
+        IPasswordRepository PasswordRepository { get; }
+        IPersonPhoneRepository PersonPhoneRepository { get; }
+        IAddressTypeRepository AddressTypeRepository { get; }
+
+
         void Save();
 
         Task SaveAsync();
