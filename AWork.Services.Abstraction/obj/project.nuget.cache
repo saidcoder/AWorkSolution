@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5eU9wfQNZC+H0xV2fEGvnyyyq42fQzX7hsvpZAqTRlnGNeHrPnnQWu2KC3FleOKfANO9fXW+EwUKOyFrerwwOQ==",
+  "dgSpecHash": "M3Rs1eJHXpF5Dv8Zvzr3QR82FSY15Y5N//8pSD+AzbBdP31yptLuTu7q6GfRfY+kmJ04MggbdnwxJYXXKIh9Rw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\E5470\\Documents\\Visual Studio 2022\\MiniProject\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
+  "projectFilePath": "C:\\Bootcamp\\MiniProject\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

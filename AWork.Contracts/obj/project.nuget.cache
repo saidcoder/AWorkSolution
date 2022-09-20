@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bC7YI6ELQkwrAhI7GDlQGSlMAhhSja4KNkc9JT86O75LYdX7vOsyctx5vEOBFx5cQGO8N+LtZtjJlIqkpL4c2A==",
+  "dgSpecHash": "k46b0to9j2n47td8JV1k+NXwBr4FAXln8ZGOEhBHzJvSYO0DgES7mO3LPeZfo7j5BibUzuqokHWmIDpMlxtxwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\E5470\\Documents\\Visual Studio 2022\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj",
+  "projectFilePath": "C:\\Bootcamp\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

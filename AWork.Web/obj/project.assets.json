@@ -7319,11 +7319,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\E5470\\Documents\\Visual Studio 2022\\MiniProject\\AWorkSolution-Project\\AWork.Web\\AWork.Web.csproj",
+      "projectUniqueName": "C:\\Bootcamp\\MiniProject\\AWorkSolution-Project\\AWork.Web\\AWork.Web.csproj",
       "projectName": "AWork.Web",
-      "projectPath": "C:\\Users\\E5470\\Documents\\Visual Studio 2022\\MiniProject\\AWorkSolution-Project\\AWork.Web\\AWork.Web.csproj",
+      "projectPath": "C:\\Bootcamp\\MiniProject\\AWorkSolution-Project\\AWork.Web\\AWork.Web.csproj",
       "packagesPath": "C:\\Users\\E5470\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\E5470\\Documents\\Visual Studio 2022\\MiniProject\\AWorkSolution-Project\\AWork.Web\\obj\\",
+      "outputPath": "C:\\Bootcamp\\MiniProject\\AWorkSolution-Project\\AWork.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\E5470\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7340,20 +7340,20 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\E5470\\Documents\\Visual Studio 2022\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
-              "projectPath": "C:\\Users\\E5470\\Documents\\Visual Studio 2022\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj"
+            "C:\\Bootcamp\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
+              "projectPath": "C:\\Bootcamp\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj"
             },
-            "C:\\Users\\E5470\\Documents\\Visual Studio 2022\\MiniProject\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj": {
-              "projectPath": "C:\\Users\\E5470\\Documents\\Visual Studio 2022\\MiniProject\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj"
+            "C:\\Bootcamp\\MiniProject\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj": {
+              "projectPath": "C:\\Bootcamp\\MiniProject\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj"
             },
-            "C:\\Users\\E5470\\Documents\\Visual Studio 2022\\MiniProject\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj": {
-              "projectPath": "C:\\Users\\E5470\\Documents\\Visual Studio 2022\\MiniProject\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj"
+            "C:\\Bootcamp\\MiniProject\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj": {
+              "projectPath": "C:\\Bootcamp\\MiniProject\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj"
             },
-            "C:\\Users\\E5470\\Documents\\Visual Studio 2022\\MiniProject\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {
-              "projectPath": "C:\\Users\\E5470\\Documents\\Visual Studio 2022\\MiniProject\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj"
+            "C:\\Bootcamp\\MiniProject\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {
+              "projectPath": "C:\\Bootcamp\\MiniProject\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj"
             },
-            "C:\\Users\\E5470\\Documents\\Visual Studio 2022\\MiniProject\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj": {
-              "projectPath": "C:\\Users\\E5470\\Documents\\Visual Studio 2022\\MiniProject\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj"
+            "C:\\Bootcamp\\MiniProject\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj": {
+              "projectPath": "C:\\Bootcamp\\MiniProject\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj"
             }
           }
         }

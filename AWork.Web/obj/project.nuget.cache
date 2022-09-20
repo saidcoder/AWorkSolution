@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rQrUSVerMZPPycd+YsX5IMWP40Z70FbXuJiOEfqdPtVQJ4WI+eBQHW6rCI5hpfApwXy+UIVkUrOYP6zLdDfllQ==",
+  "dgSpecHash": "cMeJZ7A1KtRBhvq76o/WWnYpXcD7iTUMsO0qBp2/ClL9yJl2KB5+AssN6pGdlaPF02n0xTSgyajWcvUbkNikKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\E5470\\Documents\\Visual Studio 2022\\MiniProject\\AWorkSolution-Project\\AWork.Web\\AWork.Web.csproj",
+  "projectFilePath": "C:\\Bootcamp\\MiniProject\\AWorkSolution-Project\\AWork.Web\\AWork.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\E5470\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\E5470\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

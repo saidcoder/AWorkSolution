@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\E5470\\Documents\\Visual Studio 2022\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj",
+      "projectUniqueName": "C:\\Bootcamp\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj",
       "projectName": "AWork.Contracts",
-      "projectPath": "C:\\Users\\E5470\\Documents\\Visual Studio 2022\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj",
+      "projectPath": "C:\\Bootcamp\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj",
       "packagesPath": "C:\\Users\\E5470\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\E5470\\Documents\\Visual Studio 2022\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\obj\\",
+      "outputPath": "C:\\Bootcamp\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\E5470\\AppData\\Roaming\\NuGet\\NuGet.Config",
