@@ -1907,6 +1907,7 @@
       },
       "AWork.Services/1.0.0": {
         "dependencies": {
+          "AWork.Domain": "1.0.0",
           "AWork.Services.Abstraction": "1.0.0",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "11.0.0"
         },
@@ -1918,6 +1919,9 @@
         }
       },
       "AWork.Services.Abstraction/1.0.0": {
+        "dependencies": {
+          "AWork.Contracts": "1.0.0"
+        },
         "runtime": {
           "AWork.Services.Abstraction.dll": {}
         },

@@ -218,7 +218,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\User\\Documents\\Iwan\\Week 2 C#\\Mini Project 1\\AWork.Contracts\\AWork.Contracts.csproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\Iwan\\Week 2 C#\\Mini Project 1\\AWork.Contracts\\AWork.Contracts.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -273,6 +277,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "C:\\Users\\User\\Documents\\Iwan\\Week 2 C#\\Mini Project 1\\AWork.Domain\\AWork.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\Iwan\\Week 2 C#\\Mini Project 1\\AWork.Domain\\AWork.Domain.csproj"
+              },
               "C:\\Users\\User\\Documents\\Iwan\\Week 2 C#\\Mini Project 1\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {
                 "projectPath": "C:\\Users\\User\\Documents\\Iwan\\Week 2 C#\\Mini Project 1\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj"
               }

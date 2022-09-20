@@ -88,9 +88,35 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
+      "AWork.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/AWork.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AWork.Contracts.dll": {}
+        }
+      },
+      "AWork.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "AWork.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AWork.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AWork.Domain.dll": {}
+        }
+      },
       "AWork.Services.Abstraction/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "AWork.Contracts": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/AWork.Services.Abstraction.dll": {}
         },
@@ -295,6 +321,16 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "AWork.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../AWork.Contracts/AWork.Contracts.csproj",
+      "msbuildProject": "../AWork.Contracts/AWork.Contracts.csproj"
+    },
+    "AWork.Domain/1.0.0": {
+      "type": "project",
+      "path": "../AWork.Domain/AWork.Domain.csproj",
+      "msbuildProject": "../AWork.Domain/AWork.Domain.csproj"
+    },
     "AWork.Services.Abstraction/1.0.0": {
       "type": "project",
       "path": "../AWork.Services.Abstraction/AWork.Services.Abstraction.csproj",
@@ -303,6 +339,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "AWork.Domain >= 1.0.0",
       "AWork.Services.Abstraction >= 1.0.0",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 11.0.0"
     ]
@@ -334,6 +371,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\Users\\User\\Documents\\Iwan\\Week 2 C#\\Mini Project 1\\AWork.Domain\\AWork.Domain.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\Iwan\\Week 2 C#\\Mini Project 1\\AWork.Domain\\AWork.Domain.csproj"
+            },
             "C:\\Users\\User\\Documents\\Iwan\\Week 2 C#\\Mini Project 1\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {
               "projectPath": "C:\\Users\\User\\Documents\\Iwan\\Week 2 C#\\Mini Project 1\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj"
             }

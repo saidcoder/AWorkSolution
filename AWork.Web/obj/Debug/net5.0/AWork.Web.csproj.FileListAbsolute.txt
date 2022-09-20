@@ -312,17 +312,6 @@ D:\final\AWork.Web\obj\Debug\net5.0\Razor\Views\ShipMethods\Delete.cshtml.g.cs
 D:\final\AWork.Web\obj\Debug\net5.0\Razor\Views\ShipMethods\Details.cshtml.g.cs
 D:\final\AWork.Web\obj\Debug\net5.0\Razor\Views\ShipMethods\Edit.cshtml.g.cs
 D:\final\AWork.Web\obj\Debug\net5.0\Razor\Views\ShipMethods\Index.cshtml.g.cs
-C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.csproj.AssemblyReference.cache
-C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.AssemblyInfoInputs.cache
-C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.AssemblyInfo.cs
-C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.RazorAssemblyInfo.cache
-C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.RazorAssemblyInfo.cs
-C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.dll
-C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\refint\AWork.Web.dll
-C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.pdb
 C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\bin\Debug\net5.0\appsettings.json
 C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\bin\Debug\net5.0\AWork.Web.exe
@@ -455,6 +444,14 @@ C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\bin\Debug\net5.0
 C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\bin\Debug\net5.0\AWork.Persistence.pdb
 C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\bin\Debug\net5.0\AWork.Services.Abstraction.pdb
 C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\bin\Debug\net5.0\AWork.Services.pdb
+C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.AssemblyInfo.cs
+C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.RazorAssemblyInfo.cache
+C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.RazorAssemblyInfo.cs
 C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\scopedcss\bundle\AWork.Web.styles.css
 C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\staticwebassets\AWork.Web.StaticWebAssets.Manifest.cache
 C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.TagHelpers.input.cache
@@ -462,6 +459,11 @@ C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0
 C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.RazorCoreGenerate.cache
 C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\Razor\Views\ProductPhotoesService\Create.cshtml.g.cs
+C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\Razor\Views\ProductPhotoesService\Delete.cshtml.g.cs
+C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\Razor\Views\ProductPhotoesService\Details.cshtml.g.cs
+C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\Razor\Views\ProductPhotoesService\Edit.cshtml.g.cs
+C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\Razor\Views\ProductPhotoesService\Index.cshtml.g.cs
 C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\Razor\Views\Shared\_AWorkLayout.cshtml.g.cs
 C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -472,5 +474,8 @@ C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0
 C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.RazorTargetAssemblyInfo.cs
 C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.Views.pdb
 C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.csproj.CopyComplete
+C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.dll
+C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\refint\AWork.Web.dll
+C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.pdb
 C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\AWork.Web.genruntimeconfig.cache
 C:\Users\User\Documents\Iwan\Week 2 C#\Mini Project 1\AWork.Web\obj\Debug\net5.0\ref\AWork.Web.dll

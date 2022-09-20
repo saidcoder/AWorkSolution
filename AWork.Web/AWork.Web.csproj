@@ -10,7 +10,6 @@
     <Folder Include="Controllers\HumanResource\" />
     <Folder Include="Controllers\Purchasing\" />
     <Folder Include="Controllers\Sales\" />
-    <Folder Include="Controllers\Production\" />
     <Folder Include="Controllers\Person\" />
     <Folder Include="Repository\" />
     <Folder Include="Resources\Images\" />
