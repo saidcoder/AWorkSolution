@@ -15,7 +15,10 @@ namespace AWork.Domain.Base
         IPasswordRepository PasswordRepository { get; }
         IPersonPhoneRepository PersonPhoneRepository { get; }
         IAddressTypeRepository AddressTypeRepository { get; }
-
+        IEmailAddressRepository EmailAddressRepository { get; }
+        IBusinessEntityContactRepository BusinessEntityContactRepository { get; }
+        IBusinessEntityAddressRepository BusinessEntityAddressRepository { get; }
+        IPhoneNumberTypeRepository PhoneNumberTypeRepository { get; }   
 
         void Save();
 

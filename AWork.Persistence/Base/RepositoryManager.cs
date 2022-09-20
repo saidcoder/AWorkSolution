@@ -19,6 +19,10 @@ namespace AWork.Persistence.Base
         private IPasswordRepository _passwordRepository;
         private IPersonPhoneRepository _personPhoneRepository;
         private IAddressTypeRepository _addressTypeRepository;
+        private IEmailAddressRepository _emailRepository;
+        private IBusinessEntityContactRepository _businessEntityContactRepository;
+        private IBusinessEntityAddressRepository _businessEntityAddressRepository;  
+        private IPhoneNumberTypeRepository _phoneNumberTypeRepository;
         public RepositoryManager(AdventureWorks2019Context dbContext)
         {
             _dbContext = dbContext;
@@ -68,6 +72,51 @@ namespace AWork.Persistence.Base
                     _addressTypeRepository = new AddressTypeRepository(_dbContext);
                 }
                 return _addressTypeRepository;
+            }
+        }
+        public IEmailAddressRepository EmailAddressRepository
+        {
+            get
+            {
+                if (_emailRepository == null)
+                {
+                    _emailRepository = new EmailAddressRepository(_dbContext);
+                }
+                return _emailRepository;
+            }
+        }
+        public IBusinessEntityContactRepository BusinessEntityContactRepository
+        {
+            get
+            {
+                if (_businessEntityContactRepository == null)
+                {
+                    _businessEntityContactRepository = new BusinessEntityContactRepository(_dbContext);
+                }
+                return _businessEntityContactRepository;
+            }
+        }
+
+        public IBusinessEntityAddressRepository BusinessEntityAddressRepository
+        {
+            get
+            {
+                if (_businessEntityAddressRepository == null)
+                {
+                    _businessEntityAddressRepository = new BusinessEntityAddressRepository(_dbContext);
+                }
+                return _businessEntityAddressRepository;
+            }
+        }
+        public IPhoneNumberTypeRepository PhoneNumberTypeRepository
+        {
+            get
+            {
+                if (_phoneNumberTypeRepository == null)
+                {
+                    _phoneNumberTypeRepository = new PhoneNumberTypeRepository(_dbContext);
+                }
+                return _phoneNumberTypeRepository;
             }
         }
 
