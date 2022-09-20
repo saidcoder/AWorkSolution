@@ -45,8 +45,8 @@ D:\AWork\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.dll
 D:\AWork\AWork.Persistence\bin\Debug\net5.0\AWork.Persistence.pdb
 D:\AWork\AWork.Persistence\bin\Debug\net5.0\AWork.Contracts.dll
 D:\AWork\AWork.Persistence\bin\Debug\net5.0\AWork.Domain.dll
-D:\AWork\AWork.Persistence\bin\Debug\net5.0\AWork.Contracts.pdb
 D:\AWork\AWork.Persistence\bin\Debug\net5.0\AWork.Domain.pdb
+D:\AWork\AWork.Persistence\bin\Debug\net5.0\AWork.Contracts.pdb
 D:\AWork\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.csproj.AssemblyReference.cache
 D:\AWork\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.GeneratedMSBuildEditorConfig.editorconfig
 D:\AWork\AWork.Persistence\obj\Debug\net5.0\AWork.Persistence.AssemblyInfoInputs.cache

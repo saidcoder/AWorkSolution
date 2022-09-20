@@ -24,7 +24,8 @@ namespace AWork.Persistence.Base
 
         public void Delete(T entity) => _dbContext.Set<T>().Remove(entity);
 
-        public IQueryable<T> FindAll(bool trackChanges) => !trackChanges ? _dbContext.Set<T>().AsNoTracking() : _dbContext.Set<T>();
+        public IQueryable<T> FindAll(bool trackChanges) => 
+            !trackChanges ? _dbContext.Set<T>().AsNoTracking() : _dbContext.Set<T>();
 
         public IQueryable<T> FindByCondition(Expression<Func<T, bool>> expression, bool trackChanges) =>
             !trackChanges ? _dbContext.Set<T>().Where(expression).AsNoTracking() :

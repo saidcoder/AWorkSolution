@@ -9,7 +9,6 @@
   <ItemGroup>
     <Folder Include="Entities\" />
     <Folder Include="Repositories\HumanResource\" />
-    <Folder Include="Repositories\Sales\" />
     <Folder Include="Repositories\Production\" />
     <Folder Include="Repositories\Purchasing\" />
     <Folder Include="Repositories\Person\" />

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AWork.Domain.Repositories.Sales;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +9,9 @@ namespace AWork.Domain.Base
 {
     public interface IRepositoryManager
     {
-        /*ICategoryRepository CategoryRepository { get; }*/
+        ICurrencyRepository CurrencyRepository { get; }
+        ICurrencyRateRepository CurrencyRateRepository { get; }
+        IStoreRepository StoreRepository { get; }
 
         void Save();
 

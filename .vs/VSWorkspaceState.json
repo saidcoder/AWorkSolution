@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\AWork.Web",
-    "\\AWork.Web\\Views",
-    "\\AWork.Web\\Views\\Shared"
+    ""
   ],
-  "SelectedNode": "\\AWork.Web\\Views\\Shared\\_AWorkLayout.cshtml",
+  "SelectedNode": "\\AWorkSolution.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -9,5 +9,6 @@ namespace AWork.Services.Abstraction
     public interface IServiceManager
     {
         /*ICategoryServices CategoryServices { get; }*/
+
     }
 }
