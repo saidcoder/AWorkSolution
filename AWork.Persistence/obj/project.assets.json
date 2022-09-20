@@ -5837,11 +5837,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj",
+      "projectUniqueName": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj",
       "projectName": "AWork.Persistence",
-      "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj",
+      "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Persistence\\obj\\",
+      "outputPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5858,11 +5858,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
-              "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj"
+            "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
+              "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj"
             },
-            "D:\\MiniProject\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj": {
-              "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj"
+            "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj": {
+              "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj"
             }
           }
         }

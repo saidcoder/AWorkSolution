@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TNrjPXDWhyWw3F6f3MMaPs77AYIBu3G+BWGUfetaRf7rdbkctjo3QQX2l2va6ALPhm8M+dUveUwcpu2zDTD1EA==",
+  "dgSpecHash": "R11xOMpmlsz09Wc0Y+4SrNyGVVPuY15NRd10OJU0VsR3Mm8GMCkfH1X3YcMKUxWRfe9NeLNW9VipQbSVCphC7Q==",
   "success": true,
-  "projectFilePath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Web\\AWork.Web.csproj",
+  "projectFilePath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Web\\AWork.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

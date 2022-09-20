@@ -11,11 +11,11 @@ using AWork.Persistence;
 
 namespace AWork.Persistence.Base
 {
-    public abstract class RepositoryBase<T> : IRepositoryBase<T> where T : class
+    public abstract class ProductionRepositoryBase<T> : IProductionRepositoryBase<T> where T : class
     {
         protected AdventureWorks2019Context _dbContext;
 
-        protected RepositoryBase(AdventureWorks2019Context dbContext)
+        protected ProductionRepositoryBase(AdventureWorks2019Context dbContext)
         {
             _dbContext = dbContext;
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MiniProject\\AWorkSolution-Project\\AWork.Web\\AWork.Web.csproj": {}
+    "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Web\\AWork.Web.csproj": {}
   },
   "projects": {
-    "D:\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
+    "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj",
+        "projectUniqueName": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj",
         "projectName": "AWork.Contracts",
-        "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj",
+        "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\obj\\",
+        "outputPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "D:\\MiniProject\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj": {
+    "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj",
+        "projectUniqueName": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj",
         "projectName": "AWork.Domain",
-        "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj",
+        "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Domain\\obj\\",
+        "outputPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
-                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj"
+              "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
+                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj"
               }
             }
           }
@@ -116,14 +116,14 @@
         }
       }
     },
-    "D:\\MiniProject\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj": {
+    "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj",
+        "projectUniqueName": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj",
         "projectName": "AWork.Persistence",
-        "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj",
+        "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Persistence\\obj\\",
+        "outputPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,11 +140,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
-                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj"
+              "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
+                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj"
               },
-              "D:\\MiniProject\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj": {
-                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj"
+              "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj": {
+                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj"
               }
             }
           }
@@ -195,14 +195,14 @@
         }
       }
     },
-    "D:\\MiniProject\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {
+    "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
+        "projectUniqueName": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
         "projectName": "AWork.Services.Abstraction",
-        "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
+        "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Services.Abstraction\\obj\\",
+        "outputPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Services.Abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -219,8 +219,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
-                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj"
+              "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
+                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj"
+              },
+              "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj": {
+                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj"
+              },
+              "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj": {
+                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj"
               }
             }
           }
@@ -253,14 +259,14 @@
         }
       }
     },
-    "D:\\MiniProject\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj": {
+    "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj",
+        "projectUniqueName": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj",
         "projectName": "AWork.Services",
-        "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj",
+        "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Services\\obj\\",
+        "outputPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -277,11 +283,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\MiniProject\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj": {
-                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj"
+              "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj": {
+                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj"
               },
-              "D:\\MiniProject\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {
-                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj"
+              "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {
+                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj"
               }
             }
           }
@@ -320,14 +326,14 @@
         }
       }
     },
-    "D:\\MiniProject\\AWorkSolution-Project\\AWork.Web\\AWork.Web.csproj": {
+    "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Web\\AWork.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Web\\AWork.Web.csproj",
+        "projectUniqueName": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Web\\AWork.Web.csproj",
         "projectName": "AWork.Web",
-        "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Web\\AWork.Web.csproj",
+        "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Web\\AWork.Web.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Web\\obj\\",
+        "outputPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -344,20 +350,20 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
-                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj"
+              "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
+                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj"
               },
-              "D:\\MiniProject\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj": {
-                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj"
+              "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj": {
+                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj"
               },
-              "D:\\MiniProject\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj": {
-                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj"
+              "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj": {
+                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj"
               },
-              "D:\\MiniProject\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {
-                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj"
+              "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {
+                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj"
               },
-              "D:\\MiniProject\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj": {
-                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj"
+              "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj": {
+                "projectPath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj"
               }
             }
           }

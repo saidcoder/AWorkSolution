@@ -34,3 +34,15 @@ D:\MiniProject\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Cont
 D:\MiniProject\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\refint\AWork.Contracts.dll
 D:\MiniProject\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.pdb
 D:\MiniProject\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\ref\AWork.Contracts.dll
+D:\MiniProject\AWorkSolution-Project\AWorkSolution-Project\AWork.Contracts\bin\Debug\net5.0\AWork.Contracts.deps.json
+D:\MiniProject\AWorkSolution-Project\AWorkSolution-Project\AWork.Contracts\bin\Debug\net5.0\AWork.Contracts.dll
+D:\MiniProject\AWorkSolution-Project\AWorkSolution-Project\AWork.Contracts\bin\Debug\net5.0\AWork.Contracts.pdb
+D:\MiniProject\AWorkSolution-Project\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.csproj.AssemblyReference.cache
+D:\MiniProject\AWorkSolution-Project\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\MiniProject\AWorkSolution-Project\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.AssemblyInfoInputs.cache
+D:\MiniProject\AWorkSolution-Project\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.AssemblyInfo.cs
+D:\MiniProject\AWorkSolution-Project\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.csproj.CoreCompileInputs.cache
+D:\MiniProject\AWorkSolution-Project\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.dll
+D:\MiniProject\AWorkSolution-Project\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\refint\AWork.Contracts.dll
+D:\MiniProject\AWorkSolution-Project\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.pdb
+D:\MiniProject\AWorkSolution-Project\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\ref\AWork.Contracts.dll

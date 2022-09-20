@@ -1921,7 +1921,9 @@
       },
       "AWork.Services.Abstraction/1.0.0": {
         "dependencies": {
-          "AWork.Contracts": "1.0.0"
+          "AWork.Contracts": "1.0.0",
+          "AWork.Domain": "1.0.0",
+          "AWork.Persistence": "1.0.0"
         },
         "runtime": {
           "AWork.Services.Abstraction.dll": {}

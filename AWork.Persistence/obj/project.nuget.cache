@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "57xmNZo0y9VRmxrTwNE9sTvl+w7ZWi+KluAPt1RBYeCJZvFr2ZR8yu0Pd8osGO4gWxxdShNFrde/iHZNqPkipg==",
+  "dgSpecHash": "iOW/mEqO8F+r89fCWoxFxEoaDQsxeIIzsV2iOBntafA9Ql8Hq1uIHH47thc9F1mQOfRmllVi5ByJHk0jpiPhMA==",
   "success": true,
-  "projectFilePath": "D:\\MiniProject\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj",
+  "projectFilePath": "D:\\MiniProject\\AWorkSolution-Project\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

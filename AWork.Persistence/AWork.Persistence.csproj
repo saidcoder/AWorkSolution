@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
@@ -26,7 +26,6 @@
   <ItemGroup>
     <Folder Include="Repositories\HumanResource\" />
     <Folder Include="Repositories\Person\" />
-    <Folder Include="Repositories\Production\" />
     <Folder Include="Repositories\Purchasing\" />
     <Folder Include="Repositories\Sales\" />
   </ItemGroup>
