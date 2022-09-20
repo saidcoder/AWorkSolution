@@ -2,7 +2,9 @@ E:\Bootcamp\New Final Project\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.
 E:\Bootcamp\New Final Project\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Services.Abstraction.dll
 E:\Bootcamp\New Final Project\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Services.Abstraction.pdb
 E:\Bootcamp\New Final Project\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Contracts.dll
+E:\Bootcamp\New Final Project\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Domain.dll
 E:\Bootcamp\New Final Project\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Contracts.pdb
+E:\Bootcamp\New Final Project\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Domain.pdb
 E:\Bootcamp\New Final Project\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.csproj.AssemblyReference.cache
 E:\Bootcamp\New Final Project\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
 E:\Bootcamp\New Final Project\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.AssemblyInfoInputs.cache

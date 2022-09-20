@@ -1875,6 +1875,9 @@
         }
       },
       "AWork.Contracts/1.0.0": {
+        "dependencies": {
+          "AWork.Domain": "1.0.0"
+        },
         "runtime": {
           "AWork.Contracts.dll": {}
         },
@@ -1883,9 +1886,6 @@
         }
       },
       "AWork.Domain/1.0.0": {
-        "dependencies": {
-          "AWork.Contracts": "1.0.0"
-        },
         "runtime": {
           "AWork.Domain.dll": {}
         },

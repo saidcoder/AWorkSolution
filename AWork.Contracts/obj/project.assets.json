@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "AWork.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/AWork.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AWork.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AWork.Domain/1.0.0": {
+      "type": "project",
+      "path": "../AWork.Domain/AWork.Domain.csproj",
+      "msbuildProject": "../AWork.Domain/AWork.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "AWork.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\asus\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Bootcamp\\New Final Project\\AWork.Domain\\AWork.Domain.csproj": {
+              "projectPath": "E:\\Bootcamp\\New Final Project\\AWork.Domain\\AWork.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

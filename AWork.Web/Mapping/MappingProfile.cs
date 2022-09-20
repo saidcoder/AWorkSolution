@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using AWork.Contracts.Dto.Sales.SalesPerson;
+using AWork.Contracts.Dto.Sales.SalesTerritory;
 using AWork.Domain.Models;
 
 namespace AWork.Web.Mapping
@@ -7,9 +9,11 @@ namespace AWork.Web.Mapping
     {
         public MappingProfile()
         {
-            // CONTOH
-            /*CreateMap<Category, CategoryDto>().ReverseMap();
-            CreateMap<Category, CategoryForCreateDto>().ReverseMap();*/
+            CreateMap<SalesTerritory, SalesTerritoryDto>().ReverseMap();
+            CreateMap<SalesTerritory, SalesTerritoryForCreateDto>().ReverseMap();
+
+            CreateMap<SalesPerson, SalesPersonDto>().ReverseMap();
+            CreateMap<SalesPerson, SalesPersonForCreateDto>().ReverseMap();
         }
     }
 }

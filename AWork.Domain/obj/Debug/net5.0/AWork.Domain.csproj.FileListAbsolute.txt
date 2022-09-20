@@ -31,14 +31,11 @@ D:\final\AWork.Domain\obj\Debug\net5.0\ref\AWork.Domain.dll
 E:\Bootcamp\New Final Project\AWork.Domain\bin\Debug\net5.0\AWork.Domain.deps.json
 E:\Bootcamp\New Final Project\AWork.Domain\bin\Debug\net5.0\AWork.Domain.dll
 E:\Bootcamp\New Final Project\AWork.Domain\bin\Debug\net5.0\AWork.Domain.pdb
-E:\Bootcamp\New Final Project\AWork.Domain\bin\Debug\net5.0\AWork.Contracts.dll
-E:\Bootcamp\New Final Project\AWork.Domain\bin\Debug\net5.0\AWork.Contracts.pdb
 E:\Bootcamp\New Final Project\AWork.Domain\obj\Debug\net5.0\AWork.Domain.csproj.AssemblyReference.cache
 E:\Bootcamp\New Final Project\AWork.Domain\obj\Debug\net5.0\AWork.Domain.GeneratedMSBuildEditorConfig.editorconfig
 E:\Bootcamp\New Final Project\AWork.Domain\obj\Debug\net5.0\AWork.Domain.AssemblyInfoInputs.cache
 E:\Bootcamp\New Final Project\AWork.Domain\obj\Debug\net5.0\AWork.Domain.AssemblyInfo.cs
 E:\Bootcamp\New Final Project\AWork.Domain\obj\Debug\net5.0\AWork.Domain.csproj.CoreCompileInputs.cache
-E:\Bootcamp\New Final Project\AWork.Domain\obj\Debug\net5.0\AWork.Domain.csproj.CopyComplete
 E:\Bootcamp\New Final Project\AWork.Domain\obj\Debug\net5.0\AWork.Domain.dll
 E:\Bootcamp\New Final Project\AWork.Domain\obj\Debug\net5.0\refint\AWork.Domain.dll
 E:\Bootcamp\New Final Project\AWork.Domain\obj\Debug\net5.0\AWork.Domain.pdb

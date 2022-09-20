@@ -1767,6 +1767,9 @@
       "AWork.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "AWork.Domain": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/AWork.Contracts.dll": {}
         },
@@ -1777,9 +1780,6 @@
       "AWork.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "AWork.Contracts": "1.0.0"
-        },
         "compile": {
           "bin/placeholder/AWork.Domain.dll": {}
         },

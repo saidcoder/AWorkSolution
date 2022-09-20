@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "AWork.Contracts/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/AWork.Contracts.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/AWork.Contracts.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "AWork.Contracts/1.0.0": {
-      "type": "project",
-      "path": "../AWork.Contracts/AWork.Contracts.csproj",
-      "msbuildProject": "../AWork.Contracts/AWork.Contracts.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "AWork.Contracts >= 1.0.0"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\asus\\.nuget\\packages\\": {}
@@ -52,11 +33,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "E:\\Bootcamp\\New Final Project\\AWork.Contracts\\AWork.Contracts.csproj": {
-              "projectPath": "E:\\Bootcamp\\New Final Project\\AWork.Contracts\\AWork.Contracts.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

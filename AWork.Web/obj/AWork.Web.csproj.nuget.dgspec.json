@@ -27,7 +27,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\Bootcamp\\New Final Project\\AWork.Domain\\AWork.Domain.csproj": {
+                "projectPath": "E:\\Bootcamp\\New Final Project\\AWork.Domain\\AWork.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -82,11 +86,7 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {
-              "E:\\Bootcamp\\New Final Project\\AWork.Contracts\\AWork.Contracts.csproj": {
-                "projectPath": "E:\\Bootcamp\\New Final Project\\AWork.Contracts\\AWork.Contracts.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
