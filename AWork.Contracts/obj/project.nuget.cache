@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UCIqQJBheo8mx9lMiUHoHYYzKpz67WrSqFSwkRTeiH7vE0OJosqyNoHy9atjXRqxvpar9p2a9o16JHoUqlpI3A==",
+  "dgSpecHash": "kn8DgIGHq69pxqMNLd62/h3nMZ2m9P82ql1IY/AknjFaYccxOHte8dncmSgctGw67AL4Dn5/Q6FnRFatZmoUeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

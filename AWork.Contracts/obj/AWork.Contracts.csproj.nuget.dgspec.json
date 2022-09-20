@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {}
+    "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
+    "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj",
         "projectName": "AWork.Contracts",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

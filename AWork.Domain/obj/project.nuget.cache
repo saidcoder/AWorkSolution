@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P22U7zidcDxukBIbZALBrS30xfsDPDuOvKRyUDpNKWMU6Ozq+LPKPAkpYH1KhIMlyo5AIbyGhMY2KGr7EvHE9g==",
+  "dgSpecHash": "p76fzqfZzF5jNveWiIr64pd5nBC6zOurwX172UzuM+inRkTpIfh5DQfpPFcsYJzyUD9D1SC6niHNXiwDGn+UaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

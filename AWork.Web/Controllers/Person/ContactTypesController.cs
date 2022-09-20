@@ -7,14 +7,16 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using AWork.Domain.Models;
 using AWork.Persistence;
+using AWork.Domain.Base;
 
 namespace AWork.Web.Controllers.Person
 {
     public class ContactTypesController : Controller
     {
-        private readonly AdventureWorks2019Context _context;
+/*        private readonly AdventureWorks2019Context _context;*/
 
-        public ContactTypesController(AdventureWorks2019Context context)
+        private readonly IRepositoryManager _context;
+        public ContactTypesController(IRepositoryManager context)
         {
             _context = context;
         }
@@ -22,7 +24,7 @@ namespace AWork.Web.Controllers.Person
         // GET: ContactTypes
         public async Task<IActionResult> Index()
         {
-            return View(await _context.ContactTypes.ToListAsync());
+            return View(await _context.ContactTypeRepository.GetAllCategory(false));
         }
 
         // GET: ContactTypes/Details/5
@@ -33,8 +35,9 @@ namespace AWork.Web.Controllers.Person
                 return NotFound();
             }
 
-            var contactType = await _context.ContactTypes
-                .FirstOrDefaultAsync(m => m.ContactTypeId == id);
+            /*            var contactType = await _context.ContactTypes
+                            .FirstOrDefaultAsync(m => m.ContactTypeId == id);*/
+            var contactType = await _context.ContactTypeRepository.GetCategoryById((int)id, false);
             if (contactType == null)
             {
                 return NotFound();
@@ -58,8 +61,11 @@ namespace AWork.Web.Controllers.Person
         {
             if (ModelState.IsValid)
             {
-                _context.Add(contactType);
-                await _context.SaveChangesAsync();
+                /*                _context.Add(contactType);
+                                await _context.SaveChangesAsync();
+                */
+                _context.ContactTypeRepository.Insert(contactType);
+                await _context.SaveAsync();
                 return RedirectToAction(nameof(Index));
             }
             return View(contactType);
@@ -73,7 +79,8 @@ namespace AWork.Web.Controllers.Person
                 return NotFound();
             }
 
-            var contactType = await _context.ContactTypes.FindAsync(id);
+            /*            var contactType = await _context.ContactTypes.FindAsync(id);*/
+            var contactType = await _context.ContactTypeRepository.GetCategoryById((int)id, true);
             if (contactType == null)
             {
                 return NotFound();
@@ -97,19 +104,22 @@ namespace AWork.Web.Controllers.Person
             {
                 try
                 {
-                    _context.Update(contactType);
-                    await _context.SaveChangesAsync();
+                    /*                    _context.Update(contactType);
+                                        await _context.SaveChangesAsync();*/
+                    _context.ContactTypeRepository.Edit(contactType);
+                    await _context.SaveAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!ContactTypeExists(contactType.ContactTypeId))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
+                    /*                    if (!ContactTypeExists(contactType.ContactTypeId))
+                                        {
+                                            return NotFound();
+                                        }
+                                        else
+                                        {
+                                            throw;
+                                        }*/
+                    throw;
                 }
                 return RedirectToAction(nameof(Index));
             }
@@ -124,8 +134,9 @@ namespace AWork.Web.Controllers.Person
                 return NotFound();
             }
 
-            var contactType = await _context.ContactTypes
-                .FirstOrDefaultAsync(m => m.ContactTypeId == id);
+/*            var contactType = await _context.ContactTypes
+                .FirstOrDefaultAsync(m => m.ContactTypeId == id);*/
+            var contactType =await _context.ContactTypeRepository.GetCategoryById((int)id, false);
             if (contactType == null)
             {
                 return NotFound();
@@ -139,15 +150,18 @@ namespace AWork.Web.Controllers.Person
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var contactType = await _context.ContactTypes.FindAsync(id);
-            _context.ContactTypes.Remove(contactType);
-            await _context.SaveChangesAsync();
+            /*            var contactType = await _context.ContactTypes.FindAsync(id);
+                        _context.ContactTypes.Remove(contactType);
+            */
+            var contactType = await _context.ContactTypeRepository.GetCategoryById((int)id, false);
+            _context.ContactTypeRepository.Remove(contactType);
+            await _context.SaveAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool ContactTypeExists(int id)
+/*        private bool ContactTypeExists(int id)
         {
             return _context.ContactTypes.Any(e => e.ContactTypeId == id);
-        }
+        }*/
     }
 }

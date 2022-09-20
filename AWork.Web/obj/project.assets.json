@@ -7314,11 +7314,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Web\\AWork.Web.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Web\\AWork.Web.csproj",
       "projectName": "AWork.Web",
-      "projectPath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Web\\AWork.Web.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Web\\AWork.Web.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Web\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7335,20 +7335,20 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
-              "projectPath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj"
+            "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj"
             },
-            "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj": {
-              "projectPath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj"
+            "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj"
             },
-            "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj": {
-              "projectPath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj"
+            "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj"
             },
-            "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {
-              "projectPath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj"
+            "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj"
             },
-            "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj": {
-              "projectPath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj"
+            "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj"
             }
           }
         }

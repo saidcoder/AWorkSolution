@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj",
       "projectName": "AWork.Domain",
-      "projectPath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Domain\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
-              "projectPath": "C:\\Users\\User\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj"
+            "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj"
             }
           }
         }
