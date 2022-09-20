@@ -484,3 +484,8 @@ D:\AWork\AWork.Web\obj\Debug\net5.0\refint\AWork.Web.dll
 D:\AWork\AWork.Web\obj\Debug\net5.0\AWork.Web.pdb
 D:\AWork\AWork.Web\obj\Debug\net5.0\AWork.Web.genruntimeconfig.cache
 D:\AWork\AWork.Web\obj\Debug\net5.0\ref\AWork.Web.dll
+D:\AWork\AWork.Web\obj\Debug\net5.0\Razor\Views\Stores\Create.cshtml.g.cs
+D:\AWork\AWork.Web\obj\Debug\net5.0\Razor\Views\Stores\Delete.cshtml.g.cs
+D:\AWork\AWork.Web\obj\Debug\net5.0\Razor\Views\Stores\Details.cshtml.g.cs
+D:\AWork\AWork.Web\obj\Debug\net5.0\Razor\Views\Stores\Edit.cshtml.g.cs
+D:\AWork\AWork.Web\obj\Debug\net5.0\Razor\Views\Stores\Index.cshtml.g.cs

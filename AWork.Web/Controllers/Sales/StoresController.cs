@@ -7,14 +7,16 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using AWork.Domain.Models;
 using AWork.Persistence;
+using AWork.Domain.Base;
 
 namespace AWork.Web.Controllers.Sales
 {
     public class StoresController : Controller
     {
-        private readonly AdventureWorks2019Context _context;
+        //private readonly AdventureWorks2019Context _context;
+        private readonly IRepositoryManager _context;
 
-        public StoresController(AdventureWorks2019Context context)
+        public StoresController(IRepositoryManager context)
         {
             _context = context;
         }
@@ -22,8 +24,8 @@ namespace AWork.Web.Controllers.Sales
         // GET: Stores
         public async Task<IActionResult> Index()
         {
-            var adventureWorks2019Context = _context.Stores.Include(s => s.BusinessEntity).Include(s => s.SalesPerson);
-            return View(await adventureWorks2019Context.ToListAsync());
+            //var adventureWorks2019Context = _context.Stores.Include(s => s.BusinessEntity).Include(s => s.SalesPerson);
+            return View(await _context.StoreRepository.GetAllAsync(false));
         }
 
         // GET: Stores/Details/5
@@ -34,10 +36,11 @@ namespace AWork.Web.Controllers.Sales
                 return NotFound();
             }
 
-            var store = await _context.Stores
+            /*var store = await _context.Stores
                 .Include(s => s.BusinessEntity)
                 .Include(s => s.SalesPerson)
-                .FirstOrDefaultAsync(m => m.BusinessEntityId == id);
+                .FirstOrDefaultAsync(m => m.BusinessEntityId == id);*/
+            var store = await _context.StoreRepository.GetCurrencyByCode((int)id, false);
             if (store == null)
             {
                 return NotFound();
@@ -49,8 +52,8 @@ namespace AWork.Web.Controllers.Sales
         // GET: Stores/Create
         public IActionResult Create()
         {
-            ViewData["BusinessEntityId"] = new SelectList(_context.BusinessEntities, "BusinessEntityId", "BusinessEntityId");
-            ViewData["SalesPersonId"] = new SelectList(_context.SalesPeople, "BusinessEntityId", "BusinessEntityId");
+            /*ViewData["BusinessEntityId"] = new SelectList(_context.BusinessEntities, "BusinessEntityId", "BusinessEntityId");
+            ViewData["SalesPersonId"] = new SelectList(_context.SalesPeople, "BusinessEntityId", "BusinessEntityId");*/
             return View();
         }
 
@@ -63,12 +66,14 @@ namespace AWork.Web.Controllers.Sales
         {
             if (ModelState.IsValid)
             {
-                _context.Add(store);
-                await _context.SaveChangesAsync();
+                /*_context.Add(store);
+                await _context.SaveChangesAsync();*/
+                _context.StoreRepository.Insert(store);
+                await _context.SaveAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["BusinessEntityId"] = new SelectList(_context.BusinessEntities, "BusinessEntityId", "BusinessEntityId", store.BusinessEntityId);
-            ViewData["SalesPersonId"] = new SelectList(_context.SalesPeople, "BusinessEntityId", "BusinessEntityId", store.SalesPersonId);
+            /*ViewData["BusinessEntityId"] = new SelectList(_context.BusinessEntities, "BusinessEntityId", "BusinessEntityId", store.BusinessEntityId);
+            ViewData["SalesPersonId"] = new SelectList(_context.SalesPeople, "BusinessEntityId", "BusinessEntityId", store.SalesPersonId);*/
             return View(store);
         }
 
@@ -80,13 +85,14 @@ namespace AWork.Web.Controllers.Sales
                 return NotFound();
             }
 
-            var store = await _context.Stores.FindAsync(id);
+            //var store = await _context.Stores.FindAsync(id);
+            var store = await _context.StoreRepository.GetCurrencyByCode((int)id, true);
             if (store == null)
             {
                 return NotFound();
             }
-            ViewData["BusinessEntityId"] = new SelectList(_context.BusinessEntities, "BusinessEntityId", "BusinessEntityId", store.BusinessEntityId);
-            ViewData["SalesPersonId"] = new SelectList(_context.SalesPeople, "BusinessEntityId", "BusinessEntityId", store.SalesPersonId);
+            /*ViewData["BusinessEntityId"] = new SelectList(_context.BusinessEntities, "BusinessEntityId", "BusinessEntityId", store.BusinessEntityId);
+            ViewData["SalesPersonId"] = new SelectList(_context.SalesPeople, "BusinessEntityId", "BusinessEntityId", store.SalesPersonId);*/
             return View(store);
         }
 
@@ -106,24 +112,27 @@ namespace AWork.Web.Controllers.Sales
             {
                 try
                 {
-                    _context.Update(store);
-                    await _context.SaveChangesAsync();
+                    /*_context.Update(store);
+                    await _context.SaveChangesAsync();*/
+                    _context.StoreRepository.Change(store);
+                    await _context.SaveAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!StoreExists(store.BusinessEntityId))
+                    /*if (!StoreExists(store.BusinessEntityId))
                     {
                         return NotFound();
                     }
                     else
                     {
                         throw;
-                    }
+                    }*/
+                    throw;
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["BusinessEntityId"] = new SelectList(_context.BusinessEntities, "BusinessEntityId", "BusinessEntityId", store.BusinessEntityId);
-            ViewData["SalesPersonId"] = new SelectList(_context.SalesPeople, "BusinessEntityId", "BusinessEntityId", store.SalesPersonId);
+            /*ViewData["BusinessEntityId"] = new SelectList(_context.BusinessEntities, "BusinessEntityId", "BusinessEntityId", store.BusinessEntityId);
+            ViewData["SalesPersonId"] = new SelectList(_context.SalesPeople, "BusinessEntityId", "BusinessEntityId", store.SalesPersonId);*/
             return View(store);
         }
 
@@ -135,10 +144,11 @@ namespace AWork.Web.Controllers.Sales
                 return NotFound();
             }
 
-            var store = await _context.Stores
+            /*var store = await _context.Stores
                 .Include(s => s.BusinessEntity)
                 .Include(s => s.SalesPerson)
-                .FirstOrDefaultAsync(m => m.BusinessEntityId == id);
+                .FirstOrDefaultAsync(m => m.BusinessEntityId == id);*/
+            var store = await _context.StoreRepository.GetCurrencyByCode((int)id, false);
             if (store == null)
             {
                 return NotFound();
@@ -152,15 +162,18 @@ namespace AWork.Web.Controllers.Sales
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var store = await _context.Stores.FindAsync(id);
+            /*var store = await _context.Stores.FindAsync(id);
             _context.Stores.Remove(store);
-            await _context.SaveChangesAsync();
+            await _context.SaveChangesAsync();*/
+            var store = await _context.StoreRepository.GetCurrencyByCode((int)id, false);
+            _context.StoreRepository.Remove(store);
+            await _context.SaveAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool StoreExists(int id)
+        /*private bool StoreExists(int id)
         {
             return _context.Stores.Any(e => e.BusinessEntityId == id);
-        }
+        }*/
     }
 }
