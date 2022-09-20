@@ -6,8 +6,4 @@
     <AssemblyName>AWork.Contracts</AssemblyName>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Dto\" />
-  </ItemGroup>
-
 </Project>

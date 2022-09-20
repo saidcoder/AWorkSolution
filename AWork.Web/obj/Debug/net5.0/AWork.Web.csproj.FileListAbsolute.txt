@@ -474,3 +474,8 @@ C:\Farid\Final Project\AWork.Web\obj\Debug\net5.0\refint\AWork.Web.dll
 C:\Farid\Final Project\AWork.Web\obj\Debug\net5.0\AWork.Web.pdb
 C:\Farid\Final Project\AWork.Web\obj\Debug\net5.0\AWork.Web.genruntimeconfig.cache
 C:\Farid\Final Project\AWork.Web\obj\Debug\net5.0\ref\AWork.Web.dll
+C:\Farid\Final Project\AWork.Web\obj\Debug\net5.0\Razor\Views\ShipMethods\Create.cshtml.g.cs
+C:\Farid\Final Project\AWork.Web\obj\Debug\net5.0\Razor\Views\ShipMethods\Delete.cshtml.g.cs
+C:\Farid\Final Project\AWork.Web\obj\Debug\net5.0\Razor\Views\ShipMethods\Details.cshtml.g.cs
+C:\Farid\Final Project\AWork.Web\obj\Debug\net5.0\Razor\Views\ShipMethods\Edit.cshtml.g.cs
+C:\Farid\Final Project\AWork.Web\obj\Debug\net5.0\Razor\Views\ShipMethods\Index.cshtml.g.cs

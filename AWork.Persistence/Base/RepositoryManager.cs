@@ -6,31 +6,33 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AWork.Domain.Repositories.Purchasing;
+using AWork.Persistence.Repositories.Purchasing;
 
 namespace AWork.Persistence.Base
 {
     public class RepositoryManager : IRepositoryManager
     {
         private AdventureWorks2019Context _dbContext;
-        /*private ICategoryRepository _categoryRepository;*/
+        private IShipMethodRepository _methodRepository;
 
         public RepositoryManager(AdventureWorks2019Context dbContext)
         {
             _dbContext = dbContext;
         }
 
-        /*public ICategoryRepository CategoryRepository
+        public IShipMethodRepository ShipMethodRepository
         {
-            get {
-                if (_categoryRepository == null)
+            get
+            {
+                if (_methodRepository == null)
                 {
-                    _categoryRepository = new CategoryRepository(_dbContext);
+                    _methodRepository = new ShipMethodRepository(_dbContext);
                 }
-                return _categoryRepository; 
+                return _methodRepository;
             }
-        }*/
+        }
 
-       
 
         public void Save () => _dbContext.SaveChanges();
         public async Task SaveAsync() => await _dbContext.SaveChangesAsync();

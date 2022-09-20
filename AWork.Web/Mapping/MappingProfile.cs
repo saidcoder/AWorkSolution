@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using AWork.Contracts.Dto.Purchasing.ShipMethod;
 using AWork.Domain.Models;
 
 namespace AWork.Web.Mapping
@@ -7,9 +8,8 @@ namespace AWork.Web.Mapping
     {
         public MappingProfile()
         {
-            // CONTOH
-            /*CreateMap<Category, CategoryDto>().ReverseMap();
-            CreateMap<Category, CategoryForCreateDto>().ReverseMap();*/
+            CreateMap<ShipMethod, ShipMethodDto>().ReverseMap();
+            CreateMap<ShipMethod, ShipMethodForCreateDto>().ReverseMap();
         }
     }
 }
