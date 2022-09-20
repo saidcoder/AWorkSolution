@@ -15,6 +15,7 @@ namespace AWork.Persistence.Base
     {
         private AdventureWorks2019Context _dbContext;
         private IProductCategoryRepository _productCategory;
+        private IProductSubCategoryRepository _productSubCategory;
         /*private ICategoryRepository _categoryRepository;*/
 
         public ProductionRepositoryManager(AdventureWorks2019Context dbContext)
@@ -30,6 +31,17 @@ namespace AWork.Persistence.Base
                     _productCategory = new ProductCategoryRepository(_dbContext);
                 }
                 return _productCategory;
+            }
+        }
+
+        public IProductSubCategoryRepository productSubCategory {
+            get
+            {
+                if (_productSubCategory == null)
+                {
+                    _productSubCategory = new ProductSubCategoryRepository(_dbContext);
+                }
+                return _productSubCategory;
             }
         }
 

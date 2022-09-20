@@ -11,6 +11,7 @@ namespace AWork.Domain.Base
     {
         /*ICategoryRepository CategoryRepository { get; }*/
         IProductCategoryRepository productCategory { get; }
+        IProductSubCategoryRepository productSubCategory { get; }
 
 
         void Save();

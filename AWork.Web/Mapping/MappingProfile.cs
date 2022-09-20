@@ -14,6 +14,9 @@ namespace AWork.Web.Mapping
 
             CreateMap<ProductCategory,ProductCategoryDto>().ReverseMap();
             CreateMap<ProductCategory, ProductCategoryForCreatDto>().ReverseMap();
+            CreateMap<ProductSubcategory,ProductSubCategoryDto>().ReverseMap();
+            CreateMap<ProductSubcategory, ProductSubCategoryForCreateDto>().ReverseMap();
+
         }
     }
 }

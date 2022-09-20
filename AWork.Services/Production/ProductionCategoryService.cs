@@ -33,7 +33,7 @@ namespace AWork.Services.Production
             var prodcCategoryDto = _mapper.Map<IEnumerable<ProductCategoryDto>>(procdCategory);
             return prodcCategoryDto;
         }
-
+        
         public Task<ProductCategoryDto> GetProcdCateById(int prodcCategory, bool trackChanges)
         {
             throw new NotImplementedException();

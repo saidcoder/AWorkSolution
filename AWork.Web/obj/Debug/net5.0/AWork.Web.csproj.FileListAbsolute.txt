@@ -641,3 +641,8 @@ D:\MiniProject\AWorkSolution-Project\AWorkSolution-Project\AWork.Web\obj\Debug\n
 D:\MiniProject\AWorkSolution-Project\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\ProductCategoriesService\Details.cshtml.g.cs
 D:\MiniProject\AWorkSolution-Project\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\ProductCategoriesService\Edit.cshtml.g.cs
 D:\MiniProject\AWorkSolution-Project\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\ProductCategoriesService\Index.cshtml.g.cs
+D:\MiniProject\AWorkSolution-Project\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\ProductSubcategories\Create.cshtml.g.cs
+D:\MiniProject\AWorkSolution-Project\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\ProductSubcategories\Delete.cshtml.g.cs
+D:\MiniProject\AWorkSolution-Project\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\ProductSubcategories\Details.cshtml.g.cs
+D:\MiniProject\AWorkSolution-Project\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\ProductSubcategories\Edit.cshtml.g.cs
+D:\MiniProject\AWorkSolution-Project\AWorkSolution-Project\AWork.Web\obj\Debug\net5.0\Razor\Views\ProductSubcategories\Index.cshtml.g.cs

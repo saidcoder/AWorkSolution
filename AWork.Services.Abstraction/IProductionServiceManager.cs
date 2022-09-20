@@ -11,6 +11,7 @@ namespace AWork.Services.Abstraction
     {
         /*ICategoryServices CategoryServices { get; }*/
         IProductCategoryService PoductCategoryService { get; }
+        IProductSubCategoryService PoductSubCategoryService { get; }
 
     }
 }

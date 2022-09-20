@@ -25,13 +25,20 @@ namespace AWork.Services
 
         public ICategoryServices CategoryServices => _lazyCategoryService.Value;*/
         private readonly Lazy<IProductCategoryService> _lazyProductionCategoryService;
+        private readonly Lazy<IProductSubCategoryService> _lazyProductSubCategoryService;
+
         public ProductionServiceManager(IProductionRepositoryManager ProductionRepositoryManager, IMapper mapper)
         {
             _lazyProductionCategoryService = new Lazy<IProductCategoryService>(
                 () => new ProductionCategoryService(ProductionRepositoryManager, mapper)
                );
+            _lazyProductSubCategoryService = new Lazy<IProductSubCategoryService>(
+                () => new ProductSubCategoryService(ProductionRepositoryManager, mapper))
+                ;
         }
+
         public IProductCategoryService PoductCategoryService => _lazyProductionCategoryService.Value;
-       
+
+        public IProductSubCategoryService PoductSubCategoryService => _lazyProductSubCategoryService.Value;
     }
 }
