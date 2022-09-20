@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\AWorkSolution-Project\AWork.Services\bin\Debug\net5.0\AWork.Services.deps.json
+C:\Users\User\source\repos\AWorkSolution-Project\AWork.Services\bin\Debug\net5.0\AWork.Services.dll
+C:\Users\User\source\repos\AWorkSolution-Project\AWork.Services\bin\Debug\net5.0\AWork.Services.pdb
+C:\Users\User\source\repos\AWorkSolution-Project\AWork.Services\bin\Debug\net5.0\AWork.Services.Abstraction.dll
+C:\Users\User\source\repos\AWorkSolution-Project\AWork.Services\bin\Debug\net5.0\AWork.Services.Abstraction.pdb
+C:\Users\User\source\repos\AWorkSolution-Project\AWork.Services\obj\Debug\net5.0\AWork.Services.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AWorkSolution-Project\AWork.Services\obj\Debug\net5.0\AWork.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AWorkSolution-Project\AWork.Services\obj\Debug\net5.0\AWork.Services.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AWorkSolution-Project\AWork.Services\obj\Debug\net5.0\AWork.Services.AssemblyInfo.cs
+C:\Users\User\source\repos\AWorkSolution-Project\AWork.Services\obj\Debug\net5.0\AWork.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AWorkSolution-Project\AWork.Services\obj\Debug\net5.0\AWork.Services.csproj.CopyComplete
+C:\Users\User\source\repos\AWorkSolution-Project\AWork.Services\obj\Debug\net5.0\AWork.Services.dll
+C:\Users\User\source\repos\AWorkSolution-Project\AWork.Services\obj\Debug\net5.0\refint\AWork.Services.dll
+C:\Users\User\source\repos\AWorkSolution-Project\AWork.Services\obj\Debug\net5.0\AWork.Services.pdb
+C:\Users\User\source\repos\AWorkSolution-Project\AWork.Services\obj\Debug\net5.0\ref\AWork.Services.dll

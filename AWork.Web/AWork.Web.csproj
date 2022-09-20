@@ -11,7 +11,6 @@
     <Folder Include="Controllers\Purchasing\" />
     <Folder Include="Controllers\Sales\" />
     <Folder Include="Controllers\Production\" />
-    <Folder Include="Controllers\Person\" />
     <Folder Include="Repository\" />
     <Folder Include="Resources\Images\" />
   </ItemGroup>
@@ -33,6 +32,8 @@
     <ProjectReference Include="..\AWork.Contracts\AWork.Contracts.csproj" />
     <ProjectReference Include="..\AWork.Domain\AWork.Domain.csproj" />
     <ProjectReference Include="..\AWork.Persistence\AWork.Persistence.csproj" />
+    <ProjectReference Include="..\AWork.Services.Abstraction\AWork.Services.Abstraction.csproj" />
+    <ProjectReference Include="..\AWork.Services\AWork.Services.csproj" />
   </ItemGroup>
 
 </Project>
