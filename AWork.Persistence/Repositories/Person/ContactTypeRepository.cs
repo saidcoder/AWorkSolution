@@ -21,12 +21,12 @@ namespace AWork.Persistence.Repositories.Person
             Update(contactType);
         }
 
-        public async Task<IEnumerable<ContactType>> GetAllCategory(bool trackChanges)
+        public async Task<IEnumerable<ContactType>> GetAllContactType(bool trackChanges)
         {
-            return await FindAll(trackChanges).OrderBy(c => c.ContactTypeId).ToListAsync();
+            return await FindAll(trackChanges).OrderBy(a => a.ContactTypeId).ToListAsync();
         }
 
-        public async Task<ContactType> GetCategoryById(int contactTypeId, bool trackChanges)
+        public async Task<ContactType> GetContactTypeId(int contactTypeId, bool trackChanges)
         {
             return await FindByCondition(c => c.ContactTypeId.Equals(contactTypeId), trackChanges).SingleOrDefaultAsync();
         }
