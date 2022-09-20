@@ -6076,19 +6076,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CODE.ID\\.nuget\\packages\\": {}
+    "C:\\Users\\E5470\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Persistence\\AWork.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\E5470\\Source\\Repos\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj",
       "projectName": "AWork.Persistence",
-      "projectPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Persistence\\AWork.Persistence.csproj",
-      "packagesPath": "C:\\Users\\CODE.ID\\.nuget\\packages\\",
-      "outputPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Persistence\\obj\\",
+      "projectPath": "C:\\Users\\E5470\\Source\\Repos\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj",
+      "packagesPath": "C:\\Users\\E5470\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\E5470\\Source\\Repos\\AWorkSolution-Project\\AWork.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\CODE.ID\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\E5470\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6102,11 +6102,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\AWork.Contracts.csproj": {
-              "projectPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Contracts\\AWork.Contracts.csproj"
+            "C:\\Users\\E5470\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
+              "projectPath": "C:\\Users\\E5470\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj"
             },
-            "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Domain\\AWork.Domain.csproj": {
-              "projectPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Domain\\AWork.Domain.csproj"
+            "C:\\Users\\E5470\\Source\\Repos\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj": {
+              "projectPath": "C:\\Users\\E5470\\Source\\Repos\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj"
             }
           }
         }
@@ -6154,7 +6154,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

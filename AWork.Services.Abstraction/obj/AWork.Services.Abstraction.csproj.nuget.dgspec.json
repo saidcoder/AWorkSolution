@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {}
+    "C:\\Users\\E5470\\Source\\Repos\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {}
   },
   "projects": {
-    "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {
+    "C:\\Users\\E5470\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
-        "projectName": "AWork.Services.Abstraction",
-        "projectPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
-        "packagesPath": "C:\\Users\\CODE.ID\\.nuget\\packages\\",
-        "outputPath": "C:\\Farid\\Materi Bootcamp\\Final Project\\AWorkSolution\\AWork.Services.Abstraction\\obj\\",
+        "projectUniqueName": "C:\\Users\\E5470\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj",
+        "projectName": "AWork.Contracts",
+        "projectPath": "C:\\Users\\E5470\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj",
+        "packagesPath": "C:\\Users\\E5470\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\E5470\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CODE.ID\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\E5470\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,66 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\E5470\\Source\\Repos\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\E5470\\Source\\Repos\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
+        "projectName": "AWork.Services.Abstraction",
+        "projectPath": "C:\\Users\\E5470\\Source\\Repos\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\E5470\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\E5470\\Source\\Repos\\AWorkSolution-Project\\AWork.Services.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\E5470\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\E5470\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
+                "projectPath": "C:\\Users\\E5470\\Source\\Repos\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

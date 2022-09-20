@@ -22,3 +22,15 @@ D:\final\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.dll
 D:\final\AWork.Contracts\obj\Debug\net5.0\refint\AWork.Contracts.dll
 D:\final\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.pdb
 D:\final\AWork.Contracts\obj\Debug\net5.0\ref\AWork.Contracts.dll
+C:\Users\E5470\Source\Repos\AWorkSolution-Project\AWork.Contracts\bin\Debug\net5.0\AWork.Contracts.deps.json
+C:\Users\E5470\Source\Repos\AWorkSolution-Project\AWork.Contracts\bin\Debug\net5.0\AWork.Contracts.dll
+C:\Users\E5470\Source\Repos\AWorkSolution-Project\AWork.Contracts\bin\Debug\net5.0\AWork.Contracts.pdb
+C:\Users\E5470\Source\Repos\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.csproj.AssemblyReference.cache
+C:\Users\E5470\Source\Repos\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E5470\Source\Repos\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.AssemblyInfoInputs.cache
+C:\Users\E5470\Source\Repos\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.AssemblyInfo.cs
+C:\Users\E5470\Source\Repos\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\E5470\Source\Repos\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.dll
+C:\Users\E5470\Source\Repos\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\refint\AWork.Contracts.dll
+C:\Users\E5470\Source\Repos\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.pdb
+C:\Users\E5470\Source\Repos\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\ref\AWork.Contracts.dll
