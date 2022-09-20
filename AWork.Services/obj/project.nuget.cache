@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "kXJEAQJtljKHUjlpovxljdZwx0TdyJAGtzSfaJJdeA3LidrfZoqIoSCbCHqHnmKCd6IzCnXvGnROjt3GUiPrvA==",
+  "dgSpecHash": "Wp4KCK7yM+Dc8qRwmQBajoRwx7busXsrElfSsb47FCsix2tSoDoIyUSPmEsd2AurpAJg6xb3DCugKrddh9VOIQ==",
   "success": true,
   "projectFilePath": "D:\\projectfinal\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

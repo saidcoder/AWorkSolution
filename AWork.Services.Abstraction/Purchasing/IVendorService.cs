@@ -1,0 +1,22 @@
+﻿using AWork.Contracts.Dto.Purchasing;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AWork.Services.Abstraction.Purchasing
+{
+    public interface IVendorService
+    {
+        Task<IEnumerable<VendorDto>> GetAllVendor(bool trackChanges);
+
+        Task<VendorDto> GetVendorById(int vendorId, bool trackChanges);
+
+        void Insert(VendorForCreateDto vendorForCreateDto);
+
+        void Edit(VendorDto vendorDto);
+
+        void Remove(VendorDto vendorDto);
+    }
+}

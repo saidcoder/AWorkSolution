@@ -33,8 +33,8 @@ namespace AWork.Web
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-            services.AddScoped<IRepositoryManager, RepositoryManager>();
-            services.AddScoped<IServiceManager, ServiceManager>();
+            services.AddScoped<IPurchasingRepositoryManager, PurchasingRepositoryManager>();
+            services.AddScoped<IPurchasingServiceManager, ServiceManager>();
 
             services.AddAutoMapper(typeof(Startup));
 
