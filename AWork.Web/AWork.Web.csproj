@@ -13,6 +13,8 @@
     <Folder Include="Controllers\Production\" />
     <Folder Include="Controllers\Person\" />
     <Folder Include="Repository\" />
+    <Folder Include="Repository\" />
+    <Folder Include="Resources\Images\" />
     <Folder Include="Resources\Images\" />
   </ItemGroup>
 
