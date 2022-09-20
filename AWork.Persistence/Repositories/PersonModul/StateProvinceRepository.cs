@@ -1,6 +1,7 @@
 ﻿using AWork.Domain.Models;
 using AWork.Domain.Repositories.PersonModul;
 using AWork.Persistence.Base;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,27 +18,27 @@ namespace AWork.Persistence.Repositories.PersonModul
 
         public void Edit(StateProvince stateProvince)
         {
-            throw new NotImplementedException();
+            Update(stateProvince); ;
         }
 
-        public Task<IEnumerable<StateProvince>> GetAllStateProvince(bool trackChanges)
+        public async Task<IEnumerable<StateProvince>> GetAllStateProvince(bool trackChanges)
         {
-            throw new NotImplementedException();
+            return await FindAll(trackChanges).OrderBy(c => c.StateProvinceId).ToListAsync();
         }
 
-        public Task<StateProvince> GetAllStateProvinceById(int StateId, bool trackChanges)
+        public async Task<StateProvince> GetAllStateProvinceById(int StateId, bool trackChanges)
         {
-            throw new NotImplementedException();
+            return await FindByCondition(c => c.StateProvinceId.Equals(StateId), trackChanges).SingleOrDefaultAsync();
         }
 
         public void Insert(StateProvince stateProvince)
         {
-            throw new NotImplementedException();
+            Create(stateProvince);
         }
 
         public void Remove(StateProvince stateProvince)
         {
-            throw new NotImplementedException();
+            Delete(stateProvince);
         }
     }
 }

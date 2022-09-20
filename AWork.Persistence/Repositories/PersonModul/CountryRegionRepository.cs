@@ -1,9 +1,11 @@
 ﻿using AWork.Domain.Models;
 using AWork.Domain.Repositories.PersonModul;
 using AWork.Persistence.Base;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -17,27 +19,27 @@ namespace AWork.Persistence.Repositories.PersonModul
 
         public void Edit(CountryRegion countryRegion)
         {
-            throw new NotImplementedException();
+            Update(countryRegion);
         }
 
-        public Task<IEnumerable<CountryRegion>> GetAllCountryRegion(bool trackChanges)
+        public async Task<IEnumerable<CountryRegion>> GetAllCountryRegion(bool trackChanges)
         {
-            throw new NotImplementedException();
+            return await FindAll(trackChanges).OrderBy(c => c.CountryRegionCode).ToListAsync();
         }
 
-        public Task<CountryRegion> GetAllCountryRegionByCode(string countryCode, bool trackChanges)
+        public async Task<CountryRegion> GetAllCountryRegionByCode(string countryCode, bool trackChanges)
         {
-            throw new NotImplementedException();
+            return await FindByCondition(c => c.CountryRegionCode.Equals(countryCode), trackChanges).SingleOrDefaultAsync();
         }
 
         public void Insert(CountryRegion countryRegion)
         {
-            throw new NotImplementedException();
+            Create(countryRegion);
         }
 
         public void Remove(CountryRegion countryRegion)
         {
-            throw new NotImplementedException();
+            Delete(countryRegion);
         }
     }
 }

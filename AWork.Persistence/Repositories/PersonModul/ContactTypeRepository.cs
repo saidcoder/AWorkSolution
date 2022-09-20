@@ -1,6 +1,7 @@
 ﻿using AWork.Domain.Models;
 using AWork.Domain.Repositories.PersonModul;
 using AWork.Persistence.Base;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,27 +18,27 @@ namespace AWork.Persistence.Repositories.PersonModul
 
         public void Edit(ContactType contactType)
         {
-            throw new NotImplementedException();
+           Update(contactType);
         }
 
-        public Task<IEnumerable<ContactType>> GetAllContactType(bool trackChanges)
+        public async Task<IEnumerable<ContactType>> GetAllContactType(bool trackChanges)
         {
-            throw new NotImplementedException();
+            return await FindAll(trackChanges).OrderBy(c => c.ContactTypeId).ToListAsync();
         }
 
-        public Task<ContactType> GetAllContactTypeById(int contactId, bool trackChanges)
+        public async Task<ContactType> GetAllContactTypeById(int contactId, bool trackChanges)
         {
-            throw new NotImplementedException();
+            return await FindByCondition(c => c.ContactTypeId.Equals(contactId), trackChanges).SingleOrDefaultAsync();
         }
 
         public void Insert(ContactType contactType)
         {
-            throw new NotImplementedException();
+            Create(contactType);
         }
 
         public void Remove(ContactType contactType)
         {
-            throw new NotImplementedException();
+            Delete(contactType);
         }
     }
 }

@@ -18,27 +18,27 @@ namespace AWork.Persistence.Repositories.PersonModul
 
         public void Edit(BusinessEntity businessEntity)
         {
-            throw new NotImplementedException();
+            Update(businessEntity);
         }
 
-        public Task<IEnumerable<BusinessEntity>> GetAllBusinessEntity(bool trackChanges)
+        public async Task<IEnumerable<BusinessEntity>> GetAllBusinessEntity(bool trackChanges)
         {
-            throw new NotImplementedException();
+            return await FindAll(trackChanges).OrderBy(c => c.BusinessEntityId).ToListAsync();
         }
 
-        public Task<BusinessEntity> GetBusinessEntityById(int businessEntityId, bool trackChanges)
+        public async Task<BusinessEntity> GetBusinessEntityById(int businessEntityId, bool trackChanges)
         {
-            throw new NotImplementedException();
+            return await FindByCondition(c => c.BusinessEntityId.Equals(businessEntityId), trackChanges).SingleOrDefaultAsync();
         }
 
         public void Insert(BusinessEntity businessEntity)
         {
-            throw new NotImplementedException();
+            Create(businessEntity);
         }
 
         public void Remove(BusinessEntity businessEntity)
         {
-            throw new NotImplementedException();
+            Delete(businessEntity);
         }
     }
 }
