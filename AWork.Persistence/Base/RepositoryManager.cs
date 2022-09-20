@@ -15,6 +15,8 @@ namespace AWork.Persistence.Base
     {
         private AdventureWorks2019Context _dbContext;
         private IShiftRepository _shiftRepository;
+        private IEmployeeRepository _employeeRepository;
+        private IJobCandidate _jobCandidateRepository;
         /*private ICategoryRepository _categoryRepository;*/
 
         public RepositoryManager(AdventureWorks2019Context dbContext)
@@ -31,6 +33,30 @@ namespace AWork.Persistence.Base
                     _shiftRepository = new ShiftRepository(_dbContext);
                 }
                 return _shiftRepository;
+            }
+        }
+
+        public IEmployeeRepository EmployeeRepository
+        {
+            get
+            {
+                if (_employeeRepository == null)
+                {
+                    _employeeRepository = new EmployeeRepository(_dbContext);
+                }
+                return _employeeRepository;
+            }
+        }
+
+        public IJobCandidate jobCandidate
+        {
+            get
+            {
+                if (_jobCandidateRepository == null)
+                {
+                    _jobCandidateRepository = new JobCandidateRepository(_dbContext);
+                }
+                return _jobCandidateRepository;
             }
         }
 

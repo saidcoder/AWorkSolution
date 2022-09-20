@@ -13,6 +13,8 @@ namespace AWork.Domain.Base
 
         IShiftRepository ShiftRepository { get; }
 
+        IEmployeeRepository EmployeeRepository { get; }
+
         void Save();
 
         Task SaveAsync();
