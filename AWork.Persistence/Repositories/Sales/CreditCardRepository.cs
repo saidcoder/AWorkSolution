@@ -1,6 +1,7 @@
 ﻿using AWork.Domain.Models;
 using AWork.Domain.Repositories.Sales;
 using AWork.Persistence.Base;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,16 +22,16 @@ namespace AWork.Persistence.Repositories.Sales
         }
 
      
-        public Task<IEnumerable<CreditCard>> GetAllCreditCard(bool trackChanges)
+        public async Task<IEnumerable<CreditCard>> GetAllCreditCard(bool trackChanges)
         {
-            throw new NotImplementedException();
+            return await FindAll(trackChanges).OrderBy(c => c.CreditCardId).ToListAsync();
         }
 
  
 
-        public Task<CreditCard> GetCreditCardById(int CreditCardId, bool trackChanges)
+        public async Task<CreditCard> GetCreditCardById(int CreditCardId, bool trackChanges)
         {
-            throw new NotImplementedException();
+            return await FindByCondition(c => c.CreditCardId.Equals(CreditCardId), trackChanges).SingleOrDefaultAsync();
         }
 
  

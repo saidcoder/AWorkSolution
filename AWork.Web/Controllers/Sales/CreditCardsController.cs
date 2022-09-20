@@ -80,7 +80,7 @@ namespace AWork.Web.Controllers.Sales
             }
 
 /*            var creditCard = await _context.CreditCardRepository.FindAsync(id);
-*/            var creditCard = await _context.CreditCardRepository.GetAllCreditCard(false);
+*/            var creditCard = await _context.CreditCardRepository.GetCreditCardById((int)id, true);
             if (creditCard == null)
             {
                 return NotFound();
@@ -106,7 +106,7 @@ namespace AWork.Web.Controllers.Sales
                 {
                     /*       _context.Update(creditCard);
                            await _context.SaveChangesAsync();*/
-                    _context.CreditCardRepository.Remove(creditCard);
+                    _context.CreditCardRepository.Change(creditCard);
                     await _context.SaveAsync();
                 }
                 catch (DbUpdateConcurrencyException)
