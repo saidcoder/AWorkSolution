@@ -22,3 +22,15 @@ D:\final\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.dll
 D:\final\AWork.Contracts\obj\Debug\net5.0\refint\AWork.Contracts.dll
 D:\final\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.pdb
 D:\final\AWork.Contracts\obj\Debug\net5.0\ref\AWork.Contracts.dll
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Contracts\bin\Debug\net5.0\AWork.Contracts.deps.json
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Contracts\bin\Debug\net5.0\AWork.Contracts.dll
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Contracts\bin\Debug\net5.0\AWork.Contracts.pdb
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.csproj.AssemblyReference.cache
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.AssemblyInfoInputs.cache
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.AssemblyInfo.cs
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.csproj.CoreCompileInputs.cache
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.dll
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\refint\AWork.Contracts.dll
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\AWork.Contracts.pdb
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Contracts\obj\Debug\net5.0\ref\AWork.Contracts.dll

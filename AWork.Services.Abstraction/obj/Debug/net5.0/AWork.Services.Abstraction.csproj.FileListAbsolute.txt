@@ -1,0 +1,15 @@
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Services.Abstraction.deps.json
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Services.Abstraction.dll
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Services.Abstraction.pdb
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Contracts.dll
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Services.Abstraction\bin\Debug\net5.0\AWork.Contracts.pdb
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.csproj.AssemblyReference.cache
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.AssemblyInfoInputs.cache
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.AssemblyInfo.cs
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.csproj.CoreCompileInputs.cache
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.csproj.CopyComplete
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.dll
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Services.Abstraction\obj\Debug\net5.0\refint\AWork.Services.Abstraction.dll
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Services.Abstraction\obj\Debug\net5.0\AWork.Services.Abstraction.pdb
+D:\Code.id Bootcamp\FinalProject\AWorkSolution-Project\AWork.Services.Abstraction\obj\Debug\net5.0\ref\AWork.Services.Abstraction.dll

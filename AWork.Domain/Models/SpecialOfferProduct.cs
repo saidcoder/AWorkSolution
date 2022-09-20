@@ -13,6 +13,7 @@ namespace AWork.Domain.Models
         }
 
         public int SpecialOfferId { get; set; }
+        public int SpecialOfferProductId { get; set; }
         public int ProductId { get; set; }
         public Guid Rowguid { get; set; }
         public DateTime ModifiedDate { get; set; }

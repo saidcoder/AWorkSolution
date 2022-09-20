@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -195,6 +201,137 @@
         }
       }
     },
+    "D:\\Code.id Bootcamp\\FinalProject\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code.id Bootcamp\\FinalProject\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
+        "projectName": "AWork.Services.Abstraction",
+        "projectPath": "D:\\Code.id Bootcamp\\FinalProject\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Code.id Bootcamp\\FinalProject\\AWorkSolution-Project\\AWork.Services.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Code.id Bootcamp\\FinalProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj": {
+                "projectPath": "D:\\Code.id Bootcamp\\FinalProject\\AWorkSolution-Project\\AWork.Contracts\\AWork.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code.id Bootcamp\\FinalProject\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code.id Bootcamp\\FinalProject\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj",
+        "projectName": "AWork.Services",
+        "projectPath": "D:\\Code.id Bootcamp\\FinalProject\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Code.id Bootcamp\\FinalProject\\AWorkSolution-Project\\AWork.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Code.id Bootcamp\\FinalProject\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj": {
+                "projectPath": "D:\\Code.id Bootcamp\\FinalProject\\AWorkSolution-Project\\AWork.Domain\\AWork.Domain.csproj"
+              },
+              "D:\\Code.id Bootcamp\\FinalProject\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {
+                "projectPath": "D:\\Code.id Bootcamp\\FinalProject\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\Code.id Bootcamp\\FinalProject\\AWorkSolution-Project\\AWork.Web\\AWork.Web.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -227,6 +364,12 @@
               },
               "D:\\Code.id Bootcamp\\FinalProject\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj": {
                 "projectPath": "D:\\Code.id Bootcamp\\FinalProject\\AWorkSolution-Project\\AWork.Persistence\\AWork.Persistence.csproj"
+              },
+              "D:\\Code.id Bootcamp\\FinalProject\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj": {
+                "projectPath": "D:\\Code.id Bootcamp\\FinalProject\\AWorkSolution-Project\\AWork.Services.Abstraction\\AWork.Services.Abstraction.csproj"
+              },
+              "D:\\Code.id Bootcamp\\FinalProject\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj": {
+                "projectPath": "D:\\Code.id Bootcamp\\FinalProject\\AWorkSolution-Project\\AWork.Services\\AWork.Services.csproj"
               }
             }
           }
